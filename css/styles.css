@@ -1,0 +1,9 @@
+
+.box {
+  position:absolute;
+  left:0;
+  height:100%;
+  background:#09f;
+}
+
+p {margin:1em 0;}
