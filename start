@@ -1,1 +1,3 @@
-bundle exec jekyll serve --watch
+#!/usr/bin/bash
+
+bundle exec jekyll serve --watch --incremental
