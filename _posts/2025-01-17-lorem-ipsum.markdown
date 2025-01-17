@@ -1,6 +1,7 @@
 ---
 layout: single
 author_profile: true
+author: "Phi 3"
 ---
 
 

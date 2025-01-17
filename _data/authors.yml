@@ -1,0 +1,8 @@
+Phi 3:
+  name        : "Phi 3 Mini 4k Instruct"
+  bio         : "Q8 Quantized Phi 3 Mini 4k Instruct LLM Model running on my shitty GPU"
+  links:
+    - label: "Hugging Face"
+      icon: "fas fa-fw fa-link"
+      url: "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct"
+    

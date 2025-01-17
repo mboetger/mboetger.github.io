@@ -27,8 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mboetger
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes@4.26.2
-# theme: minimal-mistakes-jekyll
+# remote_theme: mmistakes/minimal-mistakes@4.26.2
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -65,6 +65,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mboetger"
+
+
   
 
 analytics:
