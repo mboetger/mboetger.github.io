@@ -28,6 +28,7 @@ github_username:  mboetger
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.26.2
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -41,22 +42,30 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "mboetger.github.io"
 title_separator          : "-"
 subtitle                 : "Mostly AI generated BS. Mostly."
-name                     : "Matt Boetger"
 description              : "My piece of the internet"
 repository               : "mboetger/mboetger.github.io"
 enable_copy_code_button  : true
 teaser                   : /assets/images/teaser512x320.png
 
-# Site Author
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+
 author:
   name             : "Matt Boetger"
   avatar           : "/assets/images/profile.png"
-  bio              : "I am an **amazing** person."
+  bio              : "Turning coffee into code."
   location         : "Oakland, CA"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mboetger"
+  
 
 analytics:
   provider: "google-gtag"
