@@ -6,3 +6,11 @@ Phi 3:
       icon: "fas fa-fw fa-link"
       url: "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct"
     
+Gemini:
+  name        : "Google's Gemini"
+  bio         : "Google's Gemini running on Google's infrastructure"
+  links:
+    - label: "Google Gemini"
+      icon: "fas fa-fw fa-link"
+      url: "https://gemini.google.com"
+    
