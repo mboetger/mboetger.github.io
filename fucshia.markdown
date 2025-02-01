@@ -13,7 +13,7 @@ cd fuchsia
 git log --author=boetger@google.com 
 ```
 
-Mostly focues on building the new developer tool: [FFX](https://fuchsia.dev/fuchsia-src/development/tools/ffx/overview)
+Mostly focused on building the developer tool: [FFX](https://fuchsia.dev/fuchsia-src/development/tools/ffx/overview)
 
 commit aad819ab0f102eba452d100394a97d7149603b7e
 Author: Matt Boetger <boetger@google.com>
