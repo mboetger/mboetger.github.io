@@ -69,8 +69,11 @@ author:
       icon: "fab fa-fw fa-dev"
       url: "/resume/"  
 
-
-  
+footer:
+  links:
+    - label: "About"
+      icon: "fa-fw fa-solid fa-user-astronaut"
+      url: "/about/"
 
 analytics:
   provider: "google-gtag"

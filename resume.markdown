@@ -2,6 +2,7 @@
 layout: single
 author_profile: true
 permalink: /resume/
+title: Resume
 ---
 
 I am a full stack software engineer. My focus, lately, has been connected device experiences for consumer products.
