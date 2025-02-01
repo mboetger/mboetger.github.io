@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 vendor
 
-.code-workspace
+blog.code-workspace

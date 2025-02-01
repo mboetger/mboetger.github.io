@@ -28,7 +28,7 @@ github_username:  mboetger
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.26.2
-# theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -64,7 +64,10 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mboetger"
+      url: "https://github.com/mboetger"    
+    - label: "Experience"
+      icon: "fab fa-fw fa-dev"
+      url: "/resume/"  
 
 
   
