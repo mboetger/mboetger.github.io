@@ -68,6 +68,9 @@ author:
     - label: "Experience"
       icon: "fab fa-fw fa-dev"
       url: "/resume/"  
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matt-boetger-6776241/"
 
 footer:
   links:
