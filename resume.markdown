@@ -12,7 +12,7 @@ I am a full stack software engineer. My focus, lately, has been connected multi-
 ## SENIOR SOFTWARE ENGINEER, GOOGLE 
 *2015 - PRESENT*
  - Pixel/Android
- - Fuchsia
+ - [Fuchsia](/fuchsia/)
  - YouTube
  - Cast
 
@@ -21,7 +21,7 @@ I am a full stack software engineer. My focus, lately, has been connected multi-
  - Maintained HTML5 consumer-faccting UI displays on varying TV devices implementing standards compliant browsers. 
  - Developed connected experiences using Samsung MultiScreen SDK, Google Chromecast SDK, and more with Android and iOS using a multitude of connectivity stacks (Wifi, Bluetooth, and more).
  - Sustained partner API endpoints supporting over 1000 home electronic devices.
- - Collaborated with partner company contacts on deadline driven projects. 
+ - Collaborated with top-tier partner company (Microsoft, Samsung, Ford, etc) contacts on deadline driven projects. 
 
 ## SENIOR SOFTWARE ENGINEER MEMBERCLICKS 
 *2009 – 2012*
