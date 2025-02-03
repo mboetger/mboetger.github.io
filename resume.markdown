@@ -11,6 +11,7 @@ I am a full stack software engineer. My focus, lately, has been connected multi-
 *2015 - PRESENT*
  - Pixel/Android
  - [Fuchsia](/fuchsia/)
+   - Built developer tools in Rust
  - YouTube
    - Member of the Living Room team
      - TL on Android Multi-Device Experience managing connected experiences for all YouTube apps (YouTube, YouTube Music, YouTube Games, YouTube Kids)
@@ -25,7 +26,8 @@ I am a full stack software engineer. My focus, lately, has been connected multi-
  - Maintained HTML5 consumer-faccting UI displays on varying TV devices implementing standards compliant browsers. 
  - Developed connected experiences using Samsung MultiScreen SDK, Google Chromecast SDK, and more with Android and iOS using a multitude of connectivity stacks (Wifi, Bluetooth, and more).
  - Sustained partner API endpoints supporting over 1000 home electronic devices.
- - Collaborated with top-tier partner company (Microsoft, Samsung, Ford, Roku, etc) contacts on deadline driven projects. 
+ - Collaborated with top-tier partner company (Microsoft, Samsung, Ford, Roku, etc) contacts on deadline driven projects.  
+ - *Patent:* [Estimation of true audience size for digital content](https://patents.google.com/patent/US20180336586A1)
 
 ## SENIOR SOFTWARE ENGINEER, [MEMBERCLICKS](https://memberclicks.com/)
 *2009 – 2012*

@@ -16,9 +16,9 @@ git log --author=boetger@google.com
 ```
 
 
-commit aad819ab0f102eba452d100394a97d7149603b7e
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 29 16:56:48 2022 +0000
+commit aad819ab0f102eba452d100394a97d7149603b7e      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Mar 29 16:56:48 2022 +0000      
 
     [ffx] remove ssh-key param from ffx target flash
     
@@ -30,9 +30,9 @@ Date:   Tue Mar 29 16:56:48 2022 +0000
     Reviewed-by: Andy Weiss <dragonbear@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit 271bb219ebb4fefdc1bb34c5e6b0e23e67831dcb
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 15 22:49:45 2022 +0000
+commit 271bb219ebb4fefdc1bb34c5e6b0e23e67831dcb      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Mar 15 22:49:45 2022 +0000      
 
     [ffx] Add more helpful error message when creating environment file
     
@@ -42,9 +42,9 @@ Date:   Tue Mar 15 22:49:45 2022 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matt Boetger <boetger@google.com>
 
-commit 60e0c930a249b31dba565a1f06fb3bfc853c5ca4
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 15 16:55:05 2022 +0000
+commit 60e0c930a249b31dba565a1f06fb3bfc853c5ca4      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Mar 15 16:55:05 2022 +0000      
 
     [ffx] update calling scripts to use --authorized-keys
     
@@ -56,9 +56,9 @@ Date:   Tue Mar 15 16:55:05 2022 +0000
     Reviewed-by: Ina Huh <ihuh@google.com>
     Commit-Queue: Matt Boetger <boetger@google.com>
 
-commit b9dcff490f611362413844d4fdedb15496e1b154
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Mar 14 21:29:16 2022 +0000
+commit b9dcff490f611362413844d4fdedb15496e1b154        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Mon Mar 14 21:29:16 2022 +0000        
 
     [ffx] better reboot errors for `ffx target flash`
     
@@ -70,9 +70,9 @@ Date:   Mon Mar 14 21:29:16 2022 +0000
     API-Review: Dave Schuyler <dschuyler@google.com>
     Commit-Queue: Matt Boetger <boetger@google.com>
 
-commit 85bcc1767de0351d23338966aa30045ebd1fcfe3
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 1 20:44:11 2022 +0000
+commit 85bcc1767de0351d23338966aa30045ebd1fcfe3        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Tue Mar 1 20:44:11 2022 +0000        
 
     [ffx] Add authorized_keys param to `ffx target flash`
     
@@ -83,9 +83,9 @@ Date:   Tue Mar 1 20:44:11 2022 +0000
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit 9798476a7ca85f4852af118dc44add6969e8bed3
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 1 20:38:26 2022 +0000
+commit 9798476a7ca85f4852af118dc44add6969e8bed3        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Tue Mar 1 20:38:26 2022 +0000        
 
     [ffx] Fix key mismatch error message
     
@@ -96,9 +96,9 @@ Date:   Tue Mar 1 20:38:26 2022 +0000
     Reviewed-by: David Pursell <dpursell@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit b1f88d7cb185005f83ee7d9382e8f3fc9d7e8ec1
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 1 20:11:22 2022 +0000
+commit b1f88d7cb185005f83ee7d9382e8f3fc9d7e8ec1        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Tue Mar 1 20:11:22 2022 +0000        
 
     [ffx] Add helpful error messages for invalid environment file
     
@@ -110,9 +110,9 @@ Date:   Tue Mar 1 20:11:22 2022 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit c67846d8b3908571f38c83bdd29192c2073367be
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Feb 2 21:27:24 2022 +0000
+commit c67846d8b3908571f38c83bdd29192c2073367be        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Wed Feb 2 21:27:24 2022 +0000        
 
     [ffx] Disabled zedboot discovery by default
     
@@ -129,9 +129,9 @@ Date:   Wed Feb 2 21:27:24 2022 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matt Boetger <boetger@google.com>
 
-commit 1faa00837584bbce7693a682336cd931b57a5681
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Dec 24 00:11:18 2021 +0000
+commit 1faa00837584bbce7693a682336cd931b57a5681        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Fri Dec 24 00:11:18 2021 +0000        
 
     [ffx] fix `ffx target flash` not sending ssh keys
     
@@ -142,9 +142,9 @@ Date:   Fri Dec 24 00:11:18 2021 +0000
     Reviewed-by: Akira Baruah <akirabaruah@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit 9de872343a73b8d8edfab84f89d19a5a9e08596d
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Dec 20 20:34:08 2021 +0000
+commit 9de872343a73b8d8edfab84f89d19a5a9e08596d        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Mon Dec 20 20:34:08 2021 +0000        
 
     [ffx] add bootloader subcommand
     
@@ -164,13 +164,13 @@ Date:   Mon Dec 20 20:34:08 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matt Boetger <boetger@google.com>
 
-commit 048f7278cf099a4888d2bb53ced5697bb5778edd
-Author: Matt Boetger <boetger@google.com>
-Date:   Sat Dec 11 00:11:34 2021 +0000
+commit 048f7278cf099a4888d2bb53ced5697bb5778edd        
+Author: Matt Boetger <boetger@google.com>        
+Date:   Sat Dec 11 00:11:34 2021 +0000        
 
     Reland "[build] Include gpt in default Fuchsia product"
     
-    This reverts commit 3efbc81461db5d9ba37285a884b49bd5a3c1c1fe.
+    This reverts commit 3efbc81461db5d9ba37285a884b49bd5a3c1c1fe.      
     
     Reason for revert: fxr/612420 should have fixed the issue with fx flash-remote
     
@@ -206,8 +206,8 @@ Date:   Sat Dec 11 00:11:34 2021 +0000
     Commit-Queue: Matt Boetger <boetger@google.com>
 
 commit e6ed3890f10fbcc4a2c2b724cfb2f55f24fbfe4b
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Dec 8 20:45:31 2021 +0000
+Author: Matt Boetger <boetger@google.com>      
+Date:   Wed Dec 8 20:45:31 2021 +0000      
 
     [ffx] create `ffx sdk list` command
     
@@ -216,9 +216,9 @@ Date:   Wed Dec 8 20:45:31 2021 +0000
     Reviewed-by: Dave Schuyler <dschuyler@google.com>
     Commit-Queue: Matt Boetger <boetger@google.com>
 
-commit d6fd4c391fd4215b9e6c61035c179413c845d889
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Dec 7 19:21:55 2021 +0000
+commit d6fd4c391fd4215b9e6c61035c179413c845d889      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Dec 7 19:21:55 2021 +0000      
 
     [ffx] add gcs downloading to `ffx target flash`
     
@@ -228,9 +228,9 @@ Date:   Tue Dec 7 19:21:55 2021 +0000
     Reviewed-by: Dave Schuyler <dschuyler@google.com>
     Commit-Queue: Matt Boetger <boetger@google.com>
 
-commit 59439847a72a491bbc551577284f1db54383bd6d
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Dec 6 22:24:05 2021 +0000
+commit 59439847a72a491bbc551577284f1db54383bd6d      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Mon Dec 6 22:24:05 2021 +0000      
 
     [ffx] add `ffx target flash info`
     
@@ -243,9 +243,9 @@ Date:   Mon Dec 6 22:24:05 2021 +0000
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit ed673a1bddfd2491c6ad4e32e4af40d58047c3d7
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Dec 2 23:06:57 2021 +0000
+commit ed673a1bddfd2491c6ad4e32e4af40d58047c3d7      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Thu Dec 2 23:06:57 2021 +0000      
 
     [ffx] Fix `ffx config env set` command
     
@@ -255,9 +255,9 @@ Date:   Thu Dec 2 23:06:57 2021 +0000
     Commit-Queue: Matt Boetger <boetger@google.com>
     Reviewed-by: James Tucker <raggi@google.com>
 
-commit fe1f05aa30c4b828f3335f20328256a338a6b412
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Nov 24 00:45:45 2021 +0000
+commit fe1f05aa30c4b828f3335f20328256a338a6b412      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Wed Nov 24 00:45:45 2021 +0000      
 
     [ffx] `ffx target flash boot` subcommand
     
@@ -267,13 +267,13 @@ Date:   Wed Nov 24 00:45:45 2021 +0000
     API-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 3efbc81461db5d9ba37285a884b49bd5a3c1c1fe
-Author: Matthew Boetger <boetger@google.com>
-Date:   Fri Nov 19 21:50:05 2021 +0000
+commit 3efbc81461db5d9ba37285a884b49bd5a3c1c1fe      
+Author: Matthew Boetger <boetger@google.com>      
+Date:   Fri Nov 19 21:50:05 2021 +0000      
 
     Revert "[build] Include gpt in default Fuchsia product"
     
-    This reverts commit 74cd072b0ed5d25e2a3a78aeafdc3dd0e4c3d1e9.
+    This reverts commit 74cd072b0ed5d25e2a3a78aeafdc3dd0e4c3d1e9.      
     
     Reason for revert: Unlock credentials are not copied in `fx flash-remote`
     
@@ -297,8 +297,8 @@ Date:   Fri Nov 19 21:50:05 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
 commit 1811067ca08e2aa4384c82fe1b32e83677a77c2f
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Nov 17 20:38:38 2021 +0000
+Author: Matt Boetger <boetger@google.com>      
+Date:   Wed Nov 17 20:38:38 2021 +0000      
 
     [ffx] Unlock subcommand for `ffx target flash`
     
@@ -310,9 +310,9 @@ Date:   Wed Nov 17 20:38:38 2021 +0000
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 55e6c44854e183b84edb697f16a102e586271786
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Nov 16 22:42:34 2021 +0000
+commit 55e6c44854e183b84edb697f16a102e586271786      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Nov 16 22:42:34 2021 +0000      
 
     [ffx] Remove common library in favor of single plugin
     
@@ -328,9 +328,9 @@ Date:   Tue Nov 16 22:42:34 2021 +0000
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit b162bc709a8b0da378d81e3cbdcf322c5db56d1b
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Nov 16 19:13:22 2021 +0000
+commit b162bc709a8b0da378d81e3cbdcf322c5db56d1b      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Nov 16 19:13:22 2021 +0000      
 
     [ffx] add ffx target flash lock plugin
     
@@ -340,9 +340,9 @@ Date:   Tue Nov 16 19:13:22 2021 +0000
     Reviewed-by: Andy Weiss <dragonbear@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit 2fcf507fe1a8f8e11eea2d4f34993abdf4c16462
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Nov 16 17:41:59 2021 +0000
+commit 2fcf507fe1a8f8e11eea2d4f34993abdf4c16462      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Nov 16 17:41:59 2021 +0000      
 
     [ffx] Check full name too to verify hardware
     
@@ -352,9 +352,9 @@ Date:   Tue Nov 16 17:41:59 2021 +0000
     Reviewed-by: David Pursell <dpursell@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 74cd072b0ed5d25e2a3a78aeafdc3dd0e4c3d1e9
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Nov 16 01:32:32 2021 +0000
+commit 74cd072b0ed5d25e2a3a78aeafdc3dd0e4c3d1e9      
+Author: Matt Boetger <boetger@google.com>      
+Date:   Tue Nov 16 01:32:32 2021 +0000      
 
     [build] Include gpt in default Fuchsia product
     
@@ -369,9 +369,9 @@ Date:   Tue Nov 16 01:32:32 2021 +0000
     Reviewed-by: Aidan Wolter <awolter@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 4717c2f9269b3e9b2548f6b33c54468b09acacc5
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Nov 15 20:29:17 2021 +0000
+commit 4717c2f9269b3e9b2548f6b33c54468b09acacc5    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Nov 15 20:29:17 2021 +0000    
 
     [ffx] Add config key to disable usb enumeration
     
@@ -381,9 +381,9 @@ Date:   Mon Nov 15 20:29:17 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 56e6f231f437016d811c44045d1ea3f2e0a717a7
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Nov 11 09:09:19 2021 +0000
+commit 56e6f231f437016d811c44045d1ea3f2e0a717a7    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Nov 11 09:09:19 2021 +0000    
 
     [ffx] fastboot common library
     
@@ -400,9 +400,9 @@ Date:   Thu Nov 11 09:09:19 2021 +0000
     Reviewed-by: Andy Weiss <dragonbear@google.com>
     Fuchsia-Auto-Submit: Matthew Boetger <boetger@google.com>
 
-commit c6669f0169251c523969a0eaf4273be329832f00
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Oct 27 23:58:51 2021 +0000
+commit c6669f0169251c523969a0eaf4273be329832f00    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Oct 27 23:58:51 2021 +0000    
 
     [ffx] Update proxy map for `ffx target show`
     
@@ -412,9 +412,9 @@ Date:   Wed Oct 27 23:58:51 2021 +0000
     Commit-Queue: Amit Uttamchandani <amituttam@google.com>
     Fuchsia-Auto-Submit: Amit Uttamchandani <amituttam@google.com>
 
-commit 33a601ffff07010508f8a956841ca4070496a57f
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Oct 27 20:06:12 2021 +0000
+commit 33a601ffff07010508f8a956841ca4070496a57f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Oct 27 20:06:12 2021 +0000    
 
     [ffx] Re-lock the device after bootloader parts
     
@@ -426,9 +426,9 @@ Date:   Wed Oct 27 20:06:12 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 41929cecf5239b48a76ac70ce131f77a44cd35c5
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Oct 18 19:34:56 2021 +0000
+commit 41929cecf5239b48a76ac70ce131f77a44cd35c5    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Oct 18 19:34:56 2021 +0000    
 
     [ffx] Generate the unlock token and unlock a device.
     
@@ -438,9 +438,9 @@ Date:   Mon Oct 18 19:34:56 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 3779f2bcd24cc1cb5c347eb68da90bee4b4e722e
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Oct 14 19:48:52 2021 +0000
+commit 3779f2bcd24cc1cb5c347eb68da90bee4b4e722e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Oct 14 19:48:52 2021 +0000    
 
     [ffx] Match credentials file to device
     
@@ -451,9 +451,9 @@ Date:   Thu Oct 14 19:48:52 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 9f2c39766a25b70890c948f3847dfbb710516f4f
-Author: Matthew Boetger <boetger@google.com>
-Date:   Wed Oct 13 21:43:35 2021 +0000
+commit 9f2c39766a25b70890c948f3847dfbb710516f4f    
+Author: Matthew Boetger <boetger@google.com>    
+Date:   Wed Oct 13 21:43:35 2021 +0000    
 
     [ffx] Revert breaking changes in main.rs
     
@@ -465,9 +465,9 @@ Date:   Wed Oct 13 21:43:35 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 41896c1580afed72a316654cbdf9be35a628322f
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Oct 13 18:44:25 2021 +0000
+commit 41896c1580afed72a316654cbdf9be35a628322f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Oct 13 18:44:25 2021 +0000    
 
     [ffx] Get the unlock challenge from the device
     
@@ -481,9 +481,9 @@ Date:   Wed Oct 13 18:44:25 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 7a5659579e2340a50cbd5063ee7925b46d4fcf6f
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Oct 8 23:40:26 2021 +0000
+commit 7a5659579e2340a50cbd5063ee7925b46d4fcf6f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Oct 8 23:40:26 2021 +0000    
 
     [ffx] Abstract out flashing logic between versions.
     
@@ -497,9 +497,9 @@ Date:   Fri Oct 8 23:40:26 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 5ca97c0fb895df216ba5072f103ba26cf5f84d14
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Oct 8 23:11:57 2021 +0000
+commit 5ca97c0fb895df216ba5072f103ba26cf5f84d14    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Oct 8 23:11:57 2021 +0000    
 
     [ffx][images] Remove bootstrap product if no bootstrap_files
     
@@ -509,9 +509,9 @@ Date:   Fri Oct 8 23:11:57 2021 +0000
     Reviewed-by: Aaron Wood <aaronwood@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit d0daacae9375a535324dcf7c0350985b995e0df4
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Oct 8 20:04:45 2021 +0000
+commit d0daacae9375a535324dcf7c0350985b995e0df4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Oct 8 20:04:45 2021 +0000    
 
     [ffx] Add credentials to the FFX manifest.
     
@@ -523,9 +523,9 @@ Date:   Fri Oct 8 20:04:45 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 0368f3f843b61ad0e60126bb2b48fed2acd3b16e
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Oct 4 23:03:25 2021 +0000
+commit 0368f3f843b61ad0e60126bb2b48fed2acd3b16e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Oct 4 23:03:25 2021 +0000    
 
     [ffx] Add unlock_creds field to flash manifest.
     
@@ -539,9 +539,9 @@ Date:   Mon Oct 4 23:03:25 2021 +0000
     Reviewed-by: Aaron Wood <aaronwood@google.com>
     Reviewed-by: David Pursell <dpursell@google.com>
 
-commit 15b13c190fab5c545fa59ecc72a9c264c512f36b
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Oct 4 18:35:02 2021 +0000
+commit 15b13c190fab5c545fa59ecc72a9c264c512f36b    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Oct 4 18:35:02 2021 +0000    
 
     [ffx] Add requires_unlock to flash manifest
     
@@ -553,9 +553,9 @@ Date:   Mon Oct 4 18:35:02 2021 +0000
     Reviewed-by: Omer Lev-ran <omerlevran@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 0c5b9438deda03621f5035180465853a36646c59
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Oct 1 00:19:43 2021 +0000
+commit 0c5b9438deda03621f5035180465853a36646c59    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Oct 1 00:19:43 2021 +0000    
 
     [ffx] Add fastboot proxy to `ffx target show`
     
@@ -570,9 +570,9 @@ Date:   Fri Oct 1 00:19:43 2021 +0000
     API-Review: Dave Schuyler <dschuyler@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 73d982905aae0c5bc07925229366ff641f31710b
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Sep 30 19:07:52 2021 +0000
+commit 73d982905aae0c5bc07925229366ff641f31710b    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Sep 30 19:07:52 2021 +0000    
 
     [ffx] Add requires_unlock field to V3
     
@@ -586,9 +586,9 @@ Date:   Thu Sep 30 19:07:52 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 9036564798e5a4bd06f990fce09297c004d2abd6
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Sep 17 01:24:01 2021 +0000
+commit 9036564798e5a4bd06f990fce09297c004d2abd6    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Sep 17 01:24:01 2021 +0000    
 
     [ffx] Remove unnecessary `mod args` in assembly
     
@@ -601,9 +601,9 @@ Date:   Fri Sep 17 01:24:01 2021 +0000
     Reviewed-by: Aaron Wood <aaronwood@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit cd43d800aab6855ef3727cca07efc621ae9c976e
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Sep 16 00:45:57 2021 +0000
+commit cd43d800aab6855ef3727cca07efc621ae9c976e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Sep 16 00:45:57 2021 +0000    
 
     [ffx] Extends args_sources to rest of plugins
     
@@ -612,9 +612,9 @@ Date:   Thu Sep 16 00:45:57 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit b0795d26b6a99afd5bbaf10a6904246e396d6f3d
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Sep 15 23:06:19 2021 +0000
+commit b0795d26b6a99afd5bbaf10a6904246e396d6f3d    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Sep 15 23:06:19 2021 +0000    
 
     [ffx] Use args_sources in full target chain
     
@@ -642,9 +642,9 @@ Date:   Wed Sep 15 23:06:19 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit c11843172db802acf2c1b0173279ad220b7c1aa1
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Sep 15 19:28:06 2021 +0000
+commit c11843172db802acf2c1b0173279ad220b7c1aa1    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Sep 15 19:28:06 2021 +0000    
 
     [ffx] Create args_sources to prevent recompile of all plugins
     
@@ -673,9 +673,9 @@ Date:   Wed Sep 15 19:28:06 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andy Weiss <dragonbear@google.com>
 
-commit 30b42d7adebec34dda429999e524c6533c660fee
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Sep 1 20:56:22 2021 +0000
+commit 30b42d7adebec34dda429999e524c6533c660fee    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Sep 1 20:56:22 2021 +0000    
 
     [ffx] connect FMS to flashing
     
@@ -690,9 +690,9 @@ Date:   Wed Sep 1 20:56:22 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Reviewed-by: Renato Mangini Dias <mangini@google.com>
 
-commit be826d6e799a54f3ee6a08000bd43ea4775ce552
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Aug 25 18:40:57 2021 +0000
+commit be826d6e799a54f3ee6a08000bd43ea4775ce552    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Aug 25 18:40:57 2021 +0000    
 
     [ffx] Make device_id_proxy optional
     
@@ -708,9 +708,9 @@ Date:   Wed Aug 25 18:40:57 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 3da36f38c74635cf114d5b7678da10083984698c
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 20 23:50:27 2021 +0000
+commit 3da36f38c74635cf114d5b7678da10083984698c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 20 23:50:27 2021 +0000    
 
     [sdk] Create Product bundle metadata enum
     
@@ -721,9 +721,9 @@ Date:   Fri Aug 20 23:50:27 2021 +0000
     Reviewed-by: Misha Gridnev <gridman@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 43d0478ec0e61bcb4fd22aff070d4bd48619569f
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Aug 19 22:40:39 2021 +0000
+commit 43d0478ec0e61bcb4fd22aff070d4bd48619569f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Aug 19 22:40:39 2021 +0000    
 
     [fms] Update FMS to V3 of the Flash manifest
     
@@ -735,9 +735,9 @@ Date:   Thu Aug 19 22:40:39 2021 +0000
     Reviewed-by: Misha Gridnev <gridman@google.com>
     Reviewed-by: Dave Schuyler <dschuyler@google.com>
 
-commit abe0060f108dfbb8dda51a5a18669d6bad90a36c
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Aug 3 17:42:30 2021 +0000
+commit abe0060f108dfbb8dda51a5a18669d6bad90a36c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Aug 3 17:42:30 2021 +0000    
 
     [ffx] Fix TAR archive flashing.
     
@@ -746,9 +746,9 @@ Date:   Tue Aug 3 17:42:30 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Andrew Davies <awdavies@google.com>
 
-commit d15d36cd0420548f357556d1dd92f79ffb4596ef
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jul 28 17:54:39 2021 +0000
+commit d15d36cd0420548f357556d1dd92f79ffb4596ef    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jul 28 17:54:39 2021 +0000    
 
     [ffx] Fix reboot issue with NUC flashing.
     
@@ -763,9 +763,9 @@ Date:   Wed Jul 28 17:54:39 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 1b17faeb9e156aabdb0df941a2d3f1e26b2aa113
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jun 25 00:11:15 2021 +0000
+commit 1b17faeb9e156aabdb0df941a2d3f1e26b2aa113    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jun 25 00:11:15 2021 +0000    
 
     [ffx] Fix Flashing Reboot issues
     
@@ -775,9 +775,9 @@ Date:   Fri Jun 25 00:11:15 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit 81db50165820130b427a11461c0ec81026844332
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jun 23 23:10:36 2021 +0000
+commit 81db50165820130b427a11461c0ec81026844332    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jun 23 23:10:36 2021 +0000    
 
     [ffx] On reboot, check target state after timeout
     
@@ -790,9 +790,9 @@ Date:   Wed Jun 23 23:10:36 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit d2300d92d75b9f9c5209ba461d6399009b232b5c
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Jun 22 00:54:12 2021 +0000
+commit d2300d92d75b9f9c5209ba461d6399009b232b5c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Jun 22 00:54:12 2021 +0000    
 
     [ffx] Update fastboot check interval time
     
@@ -806,9 +806,9 @@ Date:   Tue Jun 22 00:54:12 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit 7d082ac79b7c3e46538d66d13bc57affa615dae1
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Jun 22 00:33:32 2021 +0000
+commit 7d082ac79b7c3e46538d66d13bc57affa615dae1    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Jun 22 00:33:32 2021 +0000    
 
     [ffx] fastboot udp impl
     
@@ -823,9 +823,9 @@ Date:   Tue Jun 22 00:33:32 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 62d26ffd7e1177966dc27f524499907ff3b91b39
-Author: Matt Boetger <boetger@google.com>
-Date:   Sat Jun 19 01:10:05 2021 +0000
+commit 62d26ffd7e1177966dc27f524499907ff3b91b39    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Sat Jun 19 01:10:05 2021 +0000    
 
     [ffx] fastboot discovery via mdns
     
@@ -837,9 +837,9 @@ Date:   Sat Jun 19 01:10:05 2021 +0000
     Fuchsia-Auto-Submit: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 16a70e8e1c28b9164333677a2add284899183b41
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jun 18 23:28:48 2021 +0000
+commit 16a70e8e1c28b9164333677a2add284899183b41    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jun 18 23:28:48 2021 +0000    
 
     [ffx] Remove the converts in Target
     
@@ -857,9 +857,9 @@ Date:   Fri Jun 18 23:28:48 2021 +0000
     Fuchsia-Auto-Submit: Matthew Boetger <boetger@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit f4b81b7f1375e15bd2ea41f70473bf37aab8bdf6
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jun 18 19:08:43 2021 +0000
+commit f4b81b7f1375e15bd2ea41f70473bf37aab8bdf6    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jun 18 19:08:43 2021 +0000    
 
     [ffx] Add " (default)" to error messages
     
@@ -869,9 +869,9 @@ Date:   Fri Jun 18 19:08:43 2021 +0000
     Fuchsia-Auto-Submit: Matthew Boetger <boetger@google.com>
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
 
-commit 423706abdc760cd76e0e1c6bc750ce94a3f145eb
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jun 16 22:31:26 2021 +0000
+commit 423706abdc760cd76e0e1c6bc750ce94a3f145eb    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jun 16 22:31:26 2021 +0000    
 
     [ffx] Fix Zedboot command and control
     
@@ -884,9 +884,9 @@ Date:   Wed Jun 16 22:31:26 2021 +0000
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit ed464a9dfab8f2a0b79f0b73e5b212a681bd17ee
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jun 10 22:22:58 2021 +0000
+commit ed464a9dfab8f2a0b79f0b73e5b212a681bd17ee    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jun 10 22:22:58 2021 +0000    
 
     [ffx] Adjust Fastboot error messaging
     
@@ -897,9 +897,9 @@ Date:   Thu Jun 10 22:22:58 2021 +0000
     Fuchsia-Auto-Submit: Matthew Boetger <boetger@google.com>
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
 
-commit 8b26d84a8220e44ab5fabe6c531a8481720268c7
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jun 10 21:48:20 2021 +0000
+commit 8b26d84a8220e44ab5fabe6c531a8481720268c7    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jun 10 21:48:20 2021 +0000    
 
     [ffx] "Fix" `ffx target remove
     
@@ -914,9 +914,9 @@ Date:   Thu Jun 10 21:48:20 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
 
-commit 58ce75d8799669a7b21da59e2a5f5784a45d10f4
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jun 10 21:22:35 2021 +0000
+commit 58ce75d8799669a7b21da59e2a5f5784a45d10f4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jun 10 21:22:35 2021 +0000    
 
     [ffx] If no targets are found, report "No devices found."
     
@@ -928,9 +928,9 @@ Date:   Thu Jun 10 21:22:35 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     API-Review: Dave Schuyler <dschuyler@google.com>
 
-commit 70994f4b95a5f9d0c15c95e3fb93d131c1273a13
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jun 4 19:56:53 2021 +0000
+commit 70994f4b95a5f9d0c15c95e3fb93d131c1273a13    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jun 4 19:56:53 2021 +0000    
 
     [ffx] add skeleton code for fastboot network transport
     
@@ -939,9 +939,9 @@ Date:   Fri Jun 4 19:56:53 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit b35ff5c3f6ec315478df8d0c776af4c59e27e7a3
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu May 20 23:52:53 2021 +0000
+commit b35ff5c3f6ec315478df8d0c776af4c59e27e7a3    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu May 20 23:52:53 2021 +0000    
 
     [ffx] Add tarball support for flashing
     
@@ -954,9 +954,9 @@ Date:   Thu May 20 23:52:53 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Reviewed-by: James Tucker <raggi@google.com>
 
-commit 162975345b1c0ab06c97cbb682c2e82488a333ae
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu May 20 19:03:01 2021 +0000
+commit 162975345b1c0ab06c97cbb682c2e82488a333ae    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu May 20 19:03:01 2021 +0000    
 
     [ffx] Add "--no-bootloader-reboot" switch for `ffx target flash`
     
@@ -967,9 +967,9 @@ Date:   Thu May 20 19:03:01 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Amit Uttamchandani <amituttam@google.com>
 
-commit f93c900ed7bf1bf887c25ceac76fdf5d00e26956
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 19 20:50:32 2021 +0000
+commit f93c900ed7bf1bf887c25ceac76fdf5d00e26956    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 19 20:50:32 2021 +0000    
 
     [fx] Update fx-flash script to use the new ssh key flag
     
@@ -979,9 +979,9 @@ Date:   Wed May 19 20:50:32 2021 +0000
     Reviewed-by: Renato Mangini Dias <mangini@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 2421132f19fecf78bf36fa50a209bb9209d511bc
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu May 13 18:25:51 2021 +0000
+commit 2421132f19fecf78bf36fa50a209bb9209d511bc    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu May 13 18:25:51 2021 +0000    
 
     [ffx] zedboot reboot command
     
@@ -999,9 +999,9 @@ Date:   Thu May 13 18:25:51 2021 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit c3a5428734db613ada818c61b70e346a580df0b4
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu May 13 01:09:01 2021 +0000
+commit c3a5428734db613ada818c61b70e346a580df0b4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu May 13 01:09:01 2021 +0000    
 
     [ffx] Zedboot Discovery
     
@@ -1015,9 +1015,9 @@ Date:   Thu May 13 01:09:01 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit 722a95920d392e7eb4e691b8a865194716f7ff2b
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu May 6 19:17:51 2021 +0000
+commit 722a95920d392e7eb4e691b8a865194716f7ff2b    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu May 6 19:17:51 2021 +0000    
 
     [ffx] Reboot to fastboot when flashing
     
@@ -1032,9 +1032,9 @@ Date:   Thu May 6 19:17:51 2021 +0000
     API-Review: James Tucker <raggi@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit ac95fcc42fabe5d80b37c8d51085efd4c1fb2a93
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 5 01:28:17 2021 +0000
+commit ac95fcc42fabe5d80b37c8d51085efd4c1fb2a93    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 5 01:28:17 2021 +0000    
 
     [ffx][starnix] Return exit code directly from plugin
     
@@ -1044,9 +1044,9 @@ Date:   Wed May 5 01:28:17 2021 +0000
     Reviewed-by: Adam Barth <abarth@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit ad194e28e5ceb0578b19e4c65dc76c59ced85ed5
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 5 00:24:33 2021 +0000
+commit ad194e28e5ceb0578b19e4c65dc76c59ced85ed5    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 5 00:24:33 2021 +0000    
 
     [ffx] Allow plugins to return a custom exit code via Result<i32>
     
@@ -1058,9 +1058,9 @@ Date:   Wed May 5 00:24:33 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit f68367c89dd5879beafc8bc467063183bfa93807
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon May 3 22:40:01 2021 +0000
+commit f68367c89dd5879beafc8bc467063183bfa93807    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon May 3 22:40:01 2021 +0000    
 
     [ffx] target list names target not found
     
@@ -1079,9 +1079,9 @@ Date:   Mon May 3 22:40:01 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 93cceed50c9d8ad3b379f1a2fd5282d17b2643ca
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Apr 30 20:54:45 2021 +0000
+commit 93cceed50c9d8ad3b379f1a2fd5282d17b2643ca    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Apr 30 20:54:45 2021 +0000    
 
     [ffx] Do not limit flashing by "json" extension
     
@@ -1093,9 +1093,9 @@ Date:   Fri Apr 30 20:54:45 2021 +0000
     Commit-Queue: Amit Uttamchandani <amituttam@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 56812f6030f072cc84bdf2873307b93ed6b98b28
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Apr 30 01:08:23 2021 +0000
+commit 56812f6030f072cc84bdf2873307b93ed6b98b28    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Apr 30 01:08:23 2021 +0000    
 
     [ffx] Support flashing from a zip file.
     
@@ -1106,9 +1106,9 @@ Date:   Fri Apr 30 01:08:23 2021 +0000
     Fuchsia-Auto-Submit: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 545a693eabe7c282de7e1560a3ee64f24f6988d1
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Apr 30 01:01:00 2021 +0000
+commit 545a693eabe7c282de7e1560a3ee64f24f6988d1    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Apr 30 01:01:00 2021 +0000    
 
     [images][ffx] Move to v3 for flash.json
     
@@ -1122,9 +1122,9 @@ Date:   Fri Apr 30 01:01:00 2021 +0000
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
     Fuchsia-Auto-Submit: Matthew Boetger <boetger@google.com>
 
-commit 6792153ea9edb4f33edaf238eb5b2d28b0138186
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Apr 28 22:24:22 2021 +0000
+commit 6792153ea9edb4f33edaf238eb5b2d28b0138186    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Apr 28 22:24:22 2021 +0000    
 
     [ffx] Create Target FIDL
     
@@ -1140,9 +1140,9 @@ Date:   Wed Apr 28 22:24:22 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit f1bbd605f601b4799829dc4b5b3560c0c21a4238
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Apr 28 19:07:10 2021 +0000
+commit f1bbd605f601b4799829dc4b5b3560c0c21a4238    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Apr 28 19:07:10 2021 +0000    
 
     [ffx] Only get one remote control connection
     
@@ -1154,9 +1154,9 @@ Date:   Wed Apr 28 19:07:10 2021 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 81c0b099b8a312eb72189d3d959dc8eac452195d
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 27 19:29:15 2021 +0000
+commit 81c0b099b8a312eb72189d3d959dc8eac452195d    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 27 19:29:15 2021 +0000    
 
     [ffx] Create v3 flash manifest
     
@@ -1170,9 +1170,9 @@ Date:   Tue Apr 27 19:29:15 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Casey Dahlin <sadmac@google.com>
 
-commit 184f7cd61cf843acc04634669711c26ad0d243d6
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 27 18:13:50 2021 +0000
+commit 184f7cd61cf843acc04634669711c26ad0d243d6    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 27 18:13:50 2021 +0000    
 
     [ffx] Implement default ValueStrategy
     
@@ -1181,9 +1181,9 @@ Date:   Tue Apr 27 18:13:50 2021 +0000
     Reviewed-by: Casey Dahlin <sadmac@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 7781a92d10def78b9aec754a33825f27fa7095f4
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 27 18:12:59 2021 +0000
+commit 7781a92d10def78b9aec754a33825f27fa7095f4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 27 18:12:59 2021 +0000    
 
     [ffx] `ffx target flash` prints total time
     
@@ -1193,9 +1193,9 @@ Date:   Tue Apr 27 18:12:59 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit a488159eba2706f84f228756218d7f893babfa24
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Apr 23 03:01:15 2021 +0000
+commit a488159eba2706f84f228756218d7f893babfa24    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Apr 23 03:01:15 2021 +0000    
 
     [ffx] remove unnecessary ffx_config::Value
     
@@ -1205,9 +1205,9 @@ Date:   Fri Apr 23 03:01:15 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Fuchsia-Auto-Submit: Andrew Davies <awdavies@google.com>
 
-commit 65f6f5a32efc233ebb800eeda8dba0cfe3468a09
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Apr 22 19:18:01 2021 +0000
+commit 65f6f5a32efc233ebb800eeda8dba0cfe3468a09    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Apr 22 19:18:01 2021 +0000    
 
     [ffx] Fix float conversion from config
     
@@ -1218,9 +1218,9 @@ Date:   Thu Apr 22 19:18:01 2021 +0000
     Reviewed-by: Andy Weiss <dragonbear@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit 7ac014d42669730c40cd4e32548b3eb6faa01589
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Apr 21 00:22:15 2021 +0000
+commit 7ac014d42669730c40cd4e32548b3eb6faa01589    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Apr 21 00:22:15 2021 +0000    
 
     [ffx] Add more explicit error messaging.
     
@@ -1235,9 +1235,9 @@ Date:   Wed Apr 21 00:22:15 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 7720eb739666b4c123742ba0c4cb8a3fe964fa0a
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 20 19:03:18 2021 +0000
+commit 7720eb739666b4c123742ba0c4cb8a3fe964fa0a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 20 19:03:18 2021 +0000    
 
     [ffx] Wrap plugin injections in single Injection
     
@@ -1257,9 +1257,9 @@ Date:   Tue Apr 20 19:03:18 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: James Tucker <raggi@google.com>
 
-commit 3a88bb1e2bc60ec998c3ad9430b9dc28b15aaec9
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 20 02:42:20 2021 +0000
+commit 3a88bb1e2bc60ec998c3ad9430b9dc28b15aaec9    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 20 02:42:20 2021 +0000    
 
     [ffx] Add conditional partitions to flash manifest
     
@@ -1278,9 +1278,9 @@ Date:   Tue Apr 20 02:42:20 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 0aa2206b044bff841e0ee770100f3b32903f7500
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 20 01:24:39 2021 +0000
+commit 0aa2206b044bff841e0ee770100f3b32903f7500    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 20 01:24:39 2021 +0000    
 
     [images][ffx] Update flash.json to version 2
     
@@ -1295,9 +1295,9 @@ Date:   Tue Apr 20 01:24:39 2021 +0000
     Reviewed-by: Aaron Wood <aaronwood@google.com>
     Reviewed-by: Shai Barack <shayba@google.com>
 
-commit dd091f7201f8df2488153f227984ef56c48a8656
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Apr 19 23:37:22 2021 +0000
+commit dd091f7201f8df2488153f227984ef56c48a8656    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Apr 19 23:37:22 2021 +0000    
 
     [ffx] Verify hardware before flashing
     
@@ -1310,9 +1310,9 @@ Date:   Mon Apr 19 23:37:22 2021 +0000
     Reviewed-by: Casey Dahlin <sadmac@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit 6901dd1fbc3e6d138f6bf6f58bea5485cbc4af34
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Apr 19 22:16:34 2021 +0000
+commit 6901dd1fbc3e6d138f6bf6f58bea5485cbc4af34    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Apr 19 22:16:34 2021 +0000    
 
     [ffx] Move V1 flash manifest code.
     
@@ -1326,9 +1326,9 @@ Date:   Mon Apr 19 22:16:34 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 682795d53242c761741ed3049a727a332d304e97
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Apr 19 19:55:18 2021 +0000
+commit 682795d53242c761741ed3049a727a332d304e97    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Apr 19 19:55:18 2021 +0000    
 
     [ffx] Add `ssh-key` flag to `ffx target flash`
     
@@ -1349,9 +1349,9 @@ Date:   Mon Apr 19 19:55:18 2021 +0000
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 77bc434df26bd94133c4da2993efe95ea1744fef
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Apr 15 22:15:57 2021 +0000
+commit 77bc434df26bd94133c4da2993efe95ea1744fef    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Apr 15 22:15:57 2021 +0000    
 
     [ffx] add a timeout for get_hash
     
@@ -1360,9 +1360,9 @@ Date:   Thu Apr 15 22:15:57 2021 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 6b415be888204c46789944dc39b4ee8a8e4389dc
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Apr 15 22:07:55 2021 +0000
+commit 6b415be888204c46789944dc39b4ee8a8e4389dc    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Apr 15 22:07:55 2021 +0000    
 
     [ffx] Make sure the USB interface is cleared
     
@@ -1375,9 +1375,9 @@ Date:   Thu Apr 15 22:07:55 2021 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 82bc6b328622bc0c58bcfbb416d34cc9c678a3e3
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 13 20:12:18 2021 +0000
+commit 82bc6b328622bc0c58bcfbb416d34cc9c678a3e3    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 13 20:12:18 2021 +0000    
 
     [ffx] Change setup test proxy closure to FnMut
     
@@ -1392,9 +1392,9 @@ Date:   Tue Apr 13 20:12:18 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 4458979bad13bd6dd3cabbd75280ce6dc91f15df
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Apr 12 21:12:26 2021 +0000
+commit 4458979bad13bd6dd3cabbd75280ce6dc91f15df    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Apr 12 21:12:26 2021 +0000    
 
     [ffx] Add a warning when rebooting to recovery
     
@@ -1405,9 +1405,9 @@ Date:   Mon Apr 12 21:12:26 2021 +0000
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
     Commit-Queue: Amit Uttamchandani <amituttam@google.com>
 
-commit 58baa3aef7eec1f5605fe8c0e4d46ce8601ebd70
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 6 18:17:28 2021 +0000
+commit 58baa3aef7eec1f5605fe8c0e4d46ce8601ebd70    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 6 18:17:28 2021 +0000    
 
     [ffx] Fill in state for `ffx target list`
     
@@ -1417,9 +1417,9 @@ Date:   Tue Apr 6 18:17:28 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit e6b6363427d9a172409746631782c5d7d0b3d847
-Author: Matt Boetger <boetger@google.com>
-Date:   Sat Apr 3 00:02:33 2021 +0000
+commit e6b6363427d9a172409746631782c5d7d0b3d847    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Sat Apr 3 00:02:33 2021 +0000    
 
     [ffx] Generate flash.json for the archive
     
@@ -1432,9 +1432,9 @@ Date:   Sat Apr 3 00:02:33 2021 +0000
     Reviewed-by: Shai Barack <shayba@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit be90ed225b2a69f24ffed1ad77bf3e9be3728e3f
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Apr 1 18:04:12 2021 +0000
+commit be90ed225b2a69f24ffed1ad77bf3e9be3728e3f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Apr 1 18:04:12 2021 +0000    
 
     [ffx] daemon should return DaemonError for GetFastboot
     
@@ -1448,9 +1448,9 @@ Date:   Thu Apr 1 18:04:12 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Casey Dahlin <sadmac@google.com>
 
-commit 9908e150b3a95dd2b5e70dea4593ca1beae35057
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Mar 29 23:11:10 2021 +0000
+commit 9908e150b3a95dd2b5e70dea4593ca1beae35057    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Mar 29 23:11:10 2021 +0000    
 
     [ffx] Make sure to give the full path to the Daemon for flashing
     
@@ -1466,9 +1466,9 @@ Date:   Mon Mar 29 23:11:10 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Reviewed-by: Omer Lev-ran <omerlevran@google.com>
 
-commit 807bd36a8e7f4f177d4d330a56d18b89ffadf2f6
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Mar 18 23:05:52 2021 +0000
+commit 807bd36a8e7f4f177d4d330a56d18b89ffadf2f6    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Mar 18 23:05:52 2021 +0000    
 
     [ffx] Assume ClientChannelClosed is a success for `ffx target off`
     
@@ -1478,9 +1478,9 @@ Date:   Thu Mar 18 23:05:52 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 81dae588d8c299786746ffcb18bcb65c3dfd8730
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Mar 18 02:53:54 2021 +0000
+commit 81dae588d8c299786746ffcb18bcb65c3dfd8730    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Mar 18 02:53:54 2021 +0000    
 
     [ffx] Fix the Mutex in main to be async
     
@@ -1490,9 +1490,9 @@ Date:   Thu Mar 18 02:53:54 2021 +0000
     Commit-Queue: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 0c629f7412ec00fea06297fef2f5a43539b0817c
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Mar 17 22:30:04 2021 +0000
+commit 0c629f7412ec00fea06297fef2f5a43539b0817c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Mar 17 22:30:04 2021 +0000    
 
     [ffx] Clean up differences between mapped_proxy and known_proxy
     
@@ -1501,9 +1501,9 @@ Date:   Wed Mar 17 22:30:04 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 6799a3ec4adc77768db64c3299f0f71f7b892a06
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 16 22:25:37 2021 +0000
+commit 6799a3ec4adc77768db64c3299f0f71f7b892a06    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 16 22:25:37 2021 +0000    
 
     [ffx] logging code drop the turbofish for config calls
     
@@ -1514,9 +1514,9 @@ Date:   Tue Mar 16 22:25:37 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 4d50734febf1774733613472c1d4d0639fd24147
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 16 21:54:32 2021 +0000
+commit 4d50734febf1774733613472c1d4d0639fd24147    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 16 21:54:32 2021 +0000    
 
     [ffx] Add nodename and ssh address to `ffx target show`
     
@@ -1529,9 +1529,9 @@ Date:   Tue Mar 16 21:54:32 2021 +0000
     Reviewed-by: Dave Schuyler <dschuyler@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit c60a7f0bc80c066325b869936bdcacac58bf431f
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Mar 12 17:26:37 2021 +0000
+commit c60a7f0bc80c066325b869936bdcacac58bf431f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Mar 12 17:26:37 2021 +0000    
 
     [ffx] Allow Result and Option Proxy params in ffx_plugin
     
@@ -1549,9 +1549,9 @@ Date:   Fri Mar 12 17:26:37 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 53f6ba395be1c02929ea4652157cbe7f7844e8da
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Mar 3 20:44:05 2021 +0000
+commit 53f6ba395be1c02929ea4652157cbe7f7844e8da    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Mar 3 20:44:05 2021 +0000    
 
     [ffx] Flash.json now generated with relative paths
     
@@ -1563,9 +1563,9 @@ Date:   Wed Mar 3 20:44:05 2021 +0000
     Reviewed-by: Shai Barack <shayba@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 6757e92967dd6060405955d38a23a2a1ffafc666
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 2 22:06:41 2021 +0000
+commit 6757e92967dd6060405955d38a23a2a1ffafc666    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 2 22:06:41 2021 +0000    
 
     [ffx] Use an error code of 2 to indicate No value found.
     
@@ -1576,9 +1576,9 @@ Date:   Tue Mar 2 22:06:41 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 5e8f8e6bd87961006b9eaf0687f51b0a78653c4e
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 2 00:46:29 2021 +0000
+commit 5e8f8e6bd87961006b9eaf0687f51b0a78653c4e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 2 00:46:29 2021 +0000    
 
     [ffx] `ffx target flash` works with relative paths
     
@@ -1589,9 +1589,9 @@ Date:   Tue Mar 2 00:46:29 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 4bfc0f02683261df394b0f87ee5cd7a528d9877c
-Author: Matt Boetger <boetger@google.com>
-Date:   Sat Feb 27 00:55:21 2021 +0000
+commit 4bfc0f02683261df394b0f87ee5cd7a528d9877c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Sat Feb 27 00:55:21 2021 +0000    
 
     [ffx] harden fastboot code against multithreaded issues
     
@@ -1601,9 +1601,9 @@ Date:   Sat Feb 27 00:55:21 2021 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit e013c5fc0aa9a5df5c51af0f15b555b63cc19679
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 26 23:47:18 2021 +0000
+commit e013c5fc0aa9a5df5c51af0f15b555b63cc19679    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 26 23:47:18 2021 +0000    
 
     [ffx] Add flashing rate and minimum timeout to config
     
@@ -1612,9 +1612,9 @@ Date:   Fri Feb 26 23:47:18 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit dd7b7170d9c36d072c8b8491e386bb6e9b3b5f79
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Feb 25 17:51:56 2021 +0000
+commit dd7b7170d9c36d072c8b8491e386bb6e9b3b5f79    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Feb 25 17:51:56 2021 +0000    
 
     [ffx] Remove brittle tests in ffx_plugin impl
     
@@ -1629,9 +1629,9 @@ Date:   Thu Feb 25 17:51:56 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 4de25f2c84ead409bb174bec611f347635420952
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Feb 25 17:47:16 2021 +0000
+commit 4de25f2c84ead409bb174bec611f347635420952    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Feb 25 17:47:16 2021 +0000    
 
     [ffx] UX polish for ffx
     
@@ -1641,9 +1641,9 @@ Date:   Thu Feb 25 17:47:16 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 16d0af92c7169323b038d55a7fe9f41d89ba4b9b
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 19 19:44:30 2021 +0000
+commit 16d0af92c7169323b038d55a7fe9f41d89ba4b9b    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 19 19:44:30 2021 +0000    
 
     [ffx] clean up core impl for ffx_plugin
     
@@ -1661,9 +1661,9 @@ Date:   Fri Feb 19 19:44:30 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 8fb24f1941348ae1affea8d0e7ff7cf0821ce129
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 19 01:41:31 2021 +0000
+commit 8fb24f1941348ae1affea8d0e7ff7cf0821ce129    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 19 01:41:31 2021 +0000    
 
     [ffx] Remove underscores in ffx_plugin generated code
     
@@ -1677,9 +1677,9 @@ Date:   Fri Feb 19 01:41:31 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 4f83b30b35f893584e2cbbc6fa4214806c0a2602
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Feb 18 02:58:45 2021 +0000
+commit 4f83b30b35f893584e2cbbc6fa4214806c0a2602    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Feb 18 02:58:45 2021 +0000    
 
     [ffx][usb_bulk] Implement AsyncWrite and AsyncRead in the usb_bulk library
     
@@ -1695,9 +1695,9 @@ Date:   Thu Feb 18 02:58:45 2021 +0000
     Fuchsia-Auto-Submit: James Tucker <raggi@google.com>
     Commit-Queue: Auto-Submit <auto-submit@fuchsia-infra.iam.gserviceaccount.com>
 
-commit e4d9aa766e40819fb173f524213042e20cd7e47d
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Feb 16 20:05:29 2021 +0000
+commit e4d9aa766e40819fb173f524213042e20cd7e47d    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Feb 16 20:05:29 2021 +0000    
 
     [ffx] Remove output type
     
@@ -1710,9 +1710,9 @@ Date:   Tue Feb 16 20:05:29 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 47a26539712b3c6dbe00c90268d177e38439c017
-Author: Matt Boetger <boetger@google.com>
-Date:   Sat Feb 13 00:17:32 2021 +0000
+commit 47a26539712b3c6dbe00c90268d177e38439c017    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Sat Feb 13 00:17:32 2021 +0000    
 
     [ffx] Assume reboot successful if there's a ClientChannelClosed error
     
@@ -1722,9 +1722,9 @@ Date:   Sat Feb 13 00:17:32 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 7caf30e2ec713849ba654c25ab553f31a423d689
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 12 22:19:34 2021 +0000
+commit 7caf30e2ec713849ba654c25ab553f31a423d689    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 12 22:19:34 2021 +0000    
 
     [fconfig] Use the default JSON output of `ffx config get`
     
@@ -1733,9 +1733,9 @@ Date:   Fri Feb 12 22:19:34 2021 +0000
     Reviewed-by: Clayton Wilkinson <wilkinsonclay@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 66f0713afbfdfd0ed13286071f73bbaa0fccb53f
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Feb 8 21:43:21 2021 +0000
+commit 66f0713afbfdfd0ed13286071f73bbaa0fccb53f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Feb 8 21:43:21 2021 +0000    
 
     [ffx] Set the default output type to JSON
     
@@ -1747,9 +1747,9 @@ Date:   Mon Feb 8 21:43:21 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit b244f6dfa4e157deb02734a4ed35cefe85429282
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Feb 8 21:12:18 2021 +0000
+commit b244f6dfa4e157deb02734a4ed35cefe85429282    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Feb 8 21:12:18 2021 +0000    
 
     [ffx] Add better error messaging when connecting to targets
     
@@ -1767,9 +1767,9 @@ Date:   Mon Feb 8 21:12:18 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit afb8becc50498376b5e439bf6c6d478be3abcb7a
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 5 20:00:36 2021 +0000
+commit afb8becc50498376b5e439bf6c6d478be3abcb7a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 5 20:00:36 2021 +0000    
 
     [ffx] Allow custom error codes
     
@@ -1778,9 +1778,9 @@ Date:   Fri Feb 5 20:00:36 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 9de5ba1720d22317a116ddd52564fd092d331c2b
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 5 00:33:29 2021 +0000
+commit 9de5ba1720d22317a116ddd52564fd092d331c2b    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 5 00:33:29 2021 +0000    
 
     [ffx] Add JSON format to `ffx target list`
     
@@ -1791,9 +1791,9 @@ Date:   Fri Feb 5 00:33:29 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 7d30d3321d0b9d102814282fc6726a47c4857565
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Feb 3 23:43:30 2021 +0000
+commit 7d30d3321d0b9d102814282fc6726a47c4857565    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Feb 3 23:43:30 2021 +0000    
 
     [fconfig] Explicitly use the "human readable" output.
     
@@ -1806,9 +1806,9 @@ Date:   Wed Feb 3 23:43:30 2021 +0000
     Reviewed-by: Clayton Wilkinson <wilkinsonclay@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 627d11fde9faa9b0c6cab9656a506dc13c959f0d
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Feb 3 22:14:20 2021 +0000
+commit 627d11fde9faa9b0c6cab9656a506dc13c959f0d    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Feb 3 22:14:20 2021 +0000    
 
     [ffx] `ffx config set` can now accept JSON
     
@@ -1819,9 +1819,9 @@ Date:   Wed Feb 3 22:14:20 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 05a8c7266b71b6b8541974c93ebdccf699b3e2f3
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jan 21 19:22:56 2021 +0000
+commit 05a8c7266b71b6b8541974c93ebdccf699b3e2f3    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jan 21 19:22:56 2021 +0000    
 
     [ffx] Add `ffx daemon log` to dump the daemon log file.
     
@@ -1831,9 +1831,9 @@ Date:   Thu Jan 21 19:22:56 2021 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 9e7546a54a3880a8ea660dd8d5c9439b94019ab4
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jan 20 23:47:44 2021 +0000
+commit 9e7546a54a3880a8ea660dd8d5c9439b94019ab4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jan 20 23:47:44 2021 +0000    
 
     [ffx] Check the hash of the binary
     
@@ -1847,9 +1847,9 @@ Date:   Wed Jan 20 23:47:44 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit a69d5ab735dd1b111b1696c5e0a0994375995575
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Jan 12 21:56:59 2021 +0000
+commit a69d5ab735dd1b111b1696c5e0a0994375995575    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Jan 12 21:56:59 2021 +0000    
 
     [ffx] Turn on logging by default
     
@@ -1865,9 +1865,9 @@ Date:   Tue Jan 12 21:56:59 2021 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 543846bd34c8e32edd39917f5ac28a0aabd80836
-Author: Matt Boetger <boetger@google.com>
-Date:   Sat Jan 9 00:33:08 2021 +0000
+commit 543846bd34c8e32edd39917f5ac28a0aabd80836    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Sat Jan 9 00:33:08 2021 +0000    
 
     [ffx] Add help text to end of the ffx.
     
@@ -1881,9 +1881,9 @@ Date:   Sat Jan 9 00:33:08 2021 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 7de9ca209924aa5e8e265dc378b365ab33717100
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jan 8 22:56:24 2021 +0000
+commit 7de9ca209924aa5e8e265dc378b365ab33717100    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jan 8 22:56:24 2021 +0000    
 
     [ffx] Replace fastboot flash.sh with ffx
     
@@ -1893,9 +1893,9 @@ Date:   Fri Jan 8 22:56:24 2021 +0000
     Reviewed-by: David Pursell <dpursell@google.com>
     Reviewed-by: James Tucker <raggi@google.com>
 
-commit e7913360f9e9850f13338b436de61c23a8be05a2
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Jan 5 22:40:58 2021 +0000
+commit e7913360f9e9850f13338b436de61c23a8be05a2    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Jan 5 22:40:58 2021 +0000    
 
     [ffx] Allow for oem commands to be passed by the command line
     
@@ -1907,9 +1907,9 @@ Date:   Tue Jan 5 22:40:58 2021 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 10ba48d4c966e5308c3b55f5d923b245b050e91e
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Dec 10 20:14:22 2020 +0000
+commit 10ba48d4c966e5308c3b55f5d923b245b050e91e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Dec 10 20:14:22 2020 +0000    
 
     [ffx] fuzzy matching for target selection
     
@@ -1921,9 +1921,9 @@ Date:   Thu Dec 10 20:14:22 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit edd3b9e867a1e494adbd3b80ed1168d04a096b79
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Dec 10 00:44:14 2020 +0000
+commit edd3b9e867a1e494adbd3b80ed1168d04a096b79    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Dec 10 00:44:14 2020 +0000    
 
     [ffx] Add a fastboot connection state
     
@@ -1934,9 +1934,9 @@ Date:   Thu Dec 10 00:44:14 2020 +0000
     Reviewed-by: Matthew Boetger <boetger@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 134e683c1ec1898a71d3988b82ef2b12be541050
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Dec 4 23:10:52 2020 +0000
+commit 134e683c1ec1898a71d3988b82ef2b12be541050    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Dec 4 23:10:52 2020 +0000    
 
     [fuchsia-hyper] Use futures instead of std
     
@@ -1946,9 +1946,9 @@ Date:   Fri Dec 4 23:10:52 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 34cbec79918cc70f975971f34d1e194f93fa59cf
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Nov 25 20:06:40 2020 +0000
+commit 34cbec79918cc70f975971f34d1e194f93fa59cf    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Nov 25 20:06:40 2020 +0000    
 
     [ffx] Remove copy requirement for testing methods
     
@@ -1958,9 +1958,9 @@ Date:   Wed Nov 25 20:06:40 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 8e0567b9eba37c66e2acccb605932ff92e4c80a4
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Nov 20 19:08:41 2020 +0000
+commit 8e0567b9eba37c66e2acccb605932ff92e4c80a4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Nov 20 19:08:41 2020 +0000    
 
     [fuchsia-hyper] Move fuchsia-async to dep for both host and target
     
@@ -1972,9 +1972,9 @@ Date:   Fri Nov 20 19:08:41 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 99acdca7d79570363d5938d92273fc5d39b6cad3
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Nov 19 18:30:51 2020 +0000
+commit 99acdca7d79570363d5938d92273fc5d39b6cad3    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Nov 19 18:30:51 2020 +0000    
 
     [ffx] Updating README.md to point at getting started docs
     
@@ -1984,9 +1984,9 @@ Date:   Thu Nov 19 18:30:51 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Reviewed-by: Nick Van der Auwermeulen <nickvander@google.com>
 
-commit 516f428aec955d2677cc78442706cfd994ca1ebb
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Nov 19 17:33:10 2020 +0000
+commit 516f428aec955d2677cc78442706cfd994ca1ebb    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Nov 19 17:33:10 2020 +0000    
 
     [fuchsia-hyper] Cross compile fuchsia-hyper using async-std compat
     
@@ -1998,9 +1998,9 @@ Date:   Thu Nov 19 17:33:10 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 36fa43a48a597f51abe71f62d8037faac6900aaa
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Nov 13 00:09:45 2020 +0000
+commit 36fa43a48a597f51abe71f62d8037faac6900aaa    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Nov 13 00:09:45 2020 +0000    
 
     [OSRB] Fix linking issue with core-foundation-sys
     
@@ -2011,9 +2011,9 @@ Date:   Fri Nov 13 00:09:45 2020 +0000
     Commit-Queue: Adam Perry <adamperry@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 791b6a0ac7f954fef2d5af1c8b119125a2d1b645
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Nov 12 03:40:05 2020 +0000
+commit 791b6a0ac7f954fef2d5af1c8b119125a2d1b645    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Nov 12 03:40:05 2020 +0000    
 
     [OSRB] Incorrect location for security-framework
     
@@ -2028,9 +2028,9 @@ Date:   Thu Nov 12 03:40:05 2020 +0000
     Reviewed-by: Adam Perry <adamperry@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 621cc4895325879cb6661e5a26d32f02fc82a156
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Nov 11 22:02:00 2020 +0000
+commit 621cc4895325879cb6661e5a26d32f02fc82a156    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Nov 11 22:02:00 2020 +0000    
 
     [OSRB] Needed third_party crates for ffx
     
@@ -2042,9 +2042,9 @@ Date:   Wed Nov 11 22:02:00 2020 +0000
     Reviewed-by: Adam Perry <adamperry@google.com>
     Testability-Review: Adam Perry <adamperry@google.com>
 
-commit f8365f7d230ba2d443f62f2c3b16cee80420125a
-Author: Matt Boetger <boetger@google.com>
-Date:   Sun Nov 8 23:41:39 2020 +0000
+commit f8365f7d230ba2d443f62f2c3b16cee80420125a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Sun Nov 8 23:41:39 2020 +0000    
 
     [ffx] Help text polish
     
@@ -2056,9 +2056,9 @@ Date:   Sun Nov 8 23:41:39 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     Commit-Queue: Amit Uttamchandani <amituttam@google.com>
 
-commit 535ddb2733d26f09b2df57d79d33f4177dab56f5
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Nov 6 19:20:03 2020 +0000
+commit 535ddb2733d26f09b2df57d79d33f4177dab56f5    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Nov 6 19:20:03 2020 +0000    
 
     [ffx] generate fastboot manifest
     
@@ -2070,9 +2070,9 @@ Date:   Fri Nov 6 19:20:03 2020 +0000
     Reviewed-by: Shai Barack <shayba@google.com>
     Testability-Review: Shai Barack <shayba@google.com>
 
-commit 09fbccdac783a40b53571aac1118d67fd505445b
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Nov 3 00:29:42 2020 +0000
+commit 09fbccdac783a40b53571aac1118d67fd505445b    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Nov 3 00:29:42 2020 +0000    
 
     [ffx] fix flake
     
@@ -2086,9 +2086,9 @@ Date:   Tue Nov 3 00:29:42 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit f963e2d8b0f773504e3fba0210f7210db44f460e
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Oct 27 22:39:35 2020 +0000
+commit f963e2d8b0f773504e3fba0210f7210db44f460e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Oct 27 22:39:35 2020 +0000    
 
     [ffx] Add error codes to Fastboot FIDL interface
     
@@ -2100,9 +2100,9 @@ Date:   Tue Oct 27 22:39:35 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit a7b9940343fe22b20ed118ceb01d8f6742ac3fd8
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Oct 27 18:09:15 2020 +0000
+commit a7b9940343fe22b20ed118ceb01d8f6742ac3fd8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Oct 27 18:09:15 2020 +0000    
 
     [ffx] Removed unused commands
     
@@ -2113,9 +2113,9 @@ Date:   Tue Oct 27 18:09:15 2020 +0000
     Reviewed-by: Amit Uttamchandani <amituttam@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit cf11c7166e80540a5bf416b98c76827c469775cb
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Oct 23 18:35:03 2020 +0000
+commit cf11c7166e80540a5bf416b98c76827c469775cb    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Oct 23 18:35:03 2020 +0000    
 
     [ffx] Remove fastboot library - create module in daemon
     
@@ -2125,9 +2125,9 @@ Date:   Fri Oct 23 18:35:03 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 91982d0a3387350387da928b9d703002fdf6a1d8
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Oct 16 00:38:01 2020 +0000
+commit 91982d0a3387350387da928b9d703002fdf6a1d8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Oct 16 00:38:01 2020 +0000    
 
     [ffx] Add timeout for fastboot proxy - just like RCS
     
@@ -2137,9 +2137,9 @@ Date:   Fri Oct 16 00:38:01 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 9cc91ebe89d63d8013be9e1bceeadc8564c5fe5f
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Oct 7 21:35:05 2020 +0000
+commit 9cc91ebe89d63d8013be9e1bceeadc8564c5fe5f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Oct 7 21:35:05 2020 +0000    
 
     [ffx] --config flag now also accepts a file path
     
@@ -2149,9 +2149,9 @@ Date:   Wed Oct 7 21:35:05 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit d62a989245421ec453d5056b8216818c2d111481
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Oct 7 00:57:31 2020 +0000
+commit d62a989245421ec453d5056b8216818c2d111481    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Oct 7 00:57:31 2020 +0000    
 
     [ffx] Make sure dot notation works with config flag
     
@@ -2161,9 +2161,9 @@ Date:   Wed Oct 7 00:57:31 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 1a8b43343d5c8da3f0ce8f836588307b3304958a
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Oct 7 00:13:28 2020 +0000
+commit 1a8b43343d5c8da3f0ce8f836588307b3304958a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Oct 7 00:13:28 2020 +0000    
 
     [ffx] Generate files when setting up environment files.
     
@@ -2178,9 +2178,9 @@ Date:   Wed Oct 7 00:13:28 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit c3e530b1986cf528d6d1e2ef32e27f2f936d60ed
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Oct 6 23:32:56 2020 +0000
+commit c3e530b1986cf528d6d1e2ef32e27f2f936d60ed    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Oct 6 23:32:56 2020 +0000    
 
     [ffx] Create an output type for ffx config
     
@@ -2195,9 +2195,9 @@ Date:   Tue Oct 6 23:32:56 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 29a92b4f078dddeaea02995c68238fda78f13896
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Oct 2 17:50:46 2020 +0000
+commit 29a92b4f078dddeaea02995c68238fda78f13896    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Oct 2 17:50:46 2020 +0000    
 
     [ffx] Fastboot - add support for ssh keys, bootloader images
     
@@ -2210,9 +2210,9 @@ Date:   Fri Oct 2 17:50:46 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 1a235698af76f1ad78c84ec5c18825fe34420d99
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Oct 1 20:23:16 2020 +0000
+commit 1a235698af76f1ad78c84ec5c18825fe34420d99    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Oct 1 20:23:16 2020 +0000    
 
     [ffx] Provide a way to get values from all configuration levels.
     
@@ -2225,9 +2225,9 @@ Date:   Thu Oct 1 20:23:16 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 51e9e0dfcbaab02476f059aed9174937e9f07bda
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Sep 28 18:35:36 2020 +0000
+commit 51e9e0dfcbaab02476f059aed9174937e9f07bda    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Sep 28 18:35:36 2020 +0000    
 
     [ffx] fastboot daemon integration
     
@@ -2241,9 +2241,9 @@ Date:   Mon Sep 28 18:35:36 2020 +0000
     API-Review: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 5a1df7bf56711162386904f42a0e6360ecf62efd
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Sep 24 21:12:47 2020 +0000
+commit 5a1df7bf56711162386904f42a0e6360ecf62efd    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Sep 24 21:12:47 2020 +0000    
 
     [usb_bulk] Implement Send for usb interface
     
@@ -2253,9 +2253,9 @@ Date:   Thu Sep 24 21:12:47 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit c270371a1534776b992dddcb2ff706432a6886e2
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Sep 23 02:18:35 2020 +0000
+commit c270371a1534776b992dddcb2ff706432a6886e2    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Sep 23 02:18:35 2020 +0000    
 
     [ffx] Fastboot frontend integration
     
@@ -2270,9 +2270,9 @@ Date:   Wed Sep 23 02:18:35 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 9a6406d5e4f8b03f8f953fff948584837d185fa4
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Sep 15 23:21:15 2020 +0000
+commit 9a6406d5e4f8b03f8f953fff948584837d185fa4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Sep 15 23:21:15 2020 +0000    
 
     [ffx] Lock down daemon spawning.
     
@@ -2286,9 +2286,9 @@ Date:   Tue Sep 15 23:21:15 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 3ff460e42609884aa9c268a8be3fff23f6d90bed
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Sep 15 21:55:45 2020 +0000
+commit 3ff460e42609884aa9c268a8be3fff23f6d90bed    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Sep 15 21:55:45 2020 +0000    
 
     [ffx] Remove need for proxy aliases
     
@@ -2307,9 +2307,9 @@ Date:   Tue Sep 15 21:55:45 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 01b1666e8d4639d82e8109cf5fe66770408614c9
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Sep 14 21:07:52 2020 +0000
+commit 01b1666e8d4639d82e8109cf5fe66770408614c9    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Sep 14 21:07:52 2020 +0000    
 
     [ffx] Dev product change for Fastboot
     
@@ -2319,9 +2319,9 @@ Date:   Mon Sep 14 21:07:52 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 14da0874e4a13e4c4fb4a5faf401cfa319a39e21
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Sep 14 18:13:35 2020 +0000
+commit 14da0874e4a13e4c4fb4a5faf401cfa319a39e21    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Sep 14 18:13:35 2020 +0000    
 
     [ffx] Add vector support to frontend config command
     
@@ -2344,9 +2344,9 @@ Date:   Mon Sep 14 18:13:35 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 254cb1f9b8cbdd1caebec32ad6976d728149a029
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Sep 11 21:54:53 2020 +0000
+commit 254cb1f9b8cbdd1caebec32ad6976d728149a029    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Sep 11 21:54:53 2020 +0000    
 
     [ffx] Better error interface
     
@@ -2356,9 +2356,9 @@ Date:   Fri Sep 11 21:54:53 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit e885f2c920a4466e716b043eb092bd54937f5e8a
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Sep 10 19:56:59 2020 +0000
+commit e885f2c920a4466e716b043eb092bd54937f5e8a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Sep 10 19:56:59 2020 +0000    
 
     [ffx] Vector support for config
     
@@ -2371,9 +2371,9 @@ Date:   Thu Sep 10 19:56:59 2020 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 830d671cc8717f17ac8c3f6f0cf248f003e43c91
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Sep 8 19:21:33 2020 +0000
+commit 830d671cc8717f17ac8c3f6f0cf248f003e43c91    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Sep 8 19:21:33 2020 +0000    
 
     [ffx] Create more mappers for $HOME, $CONFIG, and $DATA
     
@@ -2388,9 +2388,9 @@ Date:   Tue Sep 8 19:21:33 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 45fab34d886535091ad1cf8e52aa3de68ade6a4a
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Sep 8 18:04:57 2020 +0000
+commit 45fab34d886535091ad1cf8e52aa3de68ade6a4a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Sep 8 18:04:57 2020 +0000    
 
     [ffx] make sure with_unit_tests is honored
     
@@ -2402,9 +2402,9 @@ Date:   Tue Sep 8 18:04:57 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 9671a3d6e9ea9b03cc42ef8e177e9b7b0144a8c9
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 28 20:19:51 2020 +0000
+commit 9671a3d6e9ea9b03cc42ef8e177e9b7b0144a8c9    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 28 20:19:51 2020 +0000    
 
     [ffx] Ensure generated libraries don't create test libraries
     
@@ -2422,9 +2422,9 @@ Date:   Fri Aug 28 20:19:51 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 9347461d075f8bf7c720d3df766e0f745fa7fe28
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 28 19:34:56 2020 +0000
+commit 9347461d075f8bf7c720d3df766e0f745fa7fe28    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 28 19:34:56 2020 +0000    
 
     [ffx] Use converts for ffx_config
     
@@ -2442,9 +2442,9 @@ Date:   Fri Aug 28 19:34:56 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit c640e48134f623e8bfb2555bbe1728112dfc64d1
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 28 18:03:06 2020 +0000
+commit c640e48134f623e8bfb2555bbe1728112dfc64d1    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 28 18:03:06 2020 +0000    
 
     [ffx] Remove config's dependency to argh Ffx Command struct
     
@@ -2455,9 +2455,9 @@ Date:   Fri Aug 28 18:03:06 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 3daf40d7643208463bf398da6980cb38cfc43706
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 28 00:57:06 2020 +0000
+commit 3daf40d7643208463bf398da6980cb38cfc43706    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 28 00:57:06 2020 +0000    
 
     [ffx] Move configs to .local/share
     
@@ -2467,9 +2467,9 @@ Date:   Fri Aug 28 00:57:06 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 86dbe44e1bb27a95052882b3a1a244fae9e3f096
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 28 00:06:53 2020 +0000
+commit 86dbe44e1bb27a95052882b3a1a244fae9e3f096    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 28 00:06:53 2020 +0000    
 
     [ffx] Initial Flash manifest
     
@@ -2481,9 +2481,9 @@ Date:   Fri Aug 28 00:06:53 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 59722982b4a3b462275b2c9a22d5d5ebd76834cd
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Aug 27 23:58:48 2020 +0000
+commit 59722982b4a3b462275b2c9a22d5d5ebd76834cd    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Aug 27 23:58:48 2020 +0000    
 
     [ffx] support non-async plugins
     
@@ -2495,9 +2495,9 @@ Date:   Thu Aug 27 23:58:48 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 6823c8b95c890acbbb42ab5fa56eca57e5d1d4d0
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Aug 19 00:42:31 2020 +0000
+commit 6823c8b95c890acbbb42ab5fa56eca57e5d1d4d0    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Aug 19 00:42:31 2020 +0000    
 
     [ffx] Automatically generate testing code for proxies in ffx_plugin
     
@@ -2512,9 +2512,9 @@ Date:   Wed Aug 19 00:42:31 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit cf90b24d850a36ba6bb9b67444253c31792130c7
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Aug 18 23:05:02 2020 +0000
+commit cf90b24d850a36ba6bb9b67444253c31792130c7    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Aug 18 23:05:02 2020 +0000    
 
     [ffx] Print help if no subcommands are given at top level.
     
@@ -2526,9 +2526,9 @@ Date:   Tue Aug 18 23:05:02 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit ee06793210b87b782e44ab17afaba9b277e76bc0
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Aug 17 18:37:25 2020 +0000
+commit ee06793210b87b782e44ab17afaba9b277e76bc0    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Aug 17 18:37:25 2020 +0000    
 
     [ffx] Move daemon constants to config
     
@@ -2540,9 +2540,9 @@ Date:   Mon Aug 17 18:37:25 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 42cbffb6ae688bcc8bc1118d5fab0899c6202fdf
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Aug 10 22:00:39 2020 +0000
+commit 42cbffb6ae688bcc8bc1118d5fab0899c6202fdf    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Aug 10 22:00:39 2020 +0000    
 
     [ffx] First pass as help text
     
@@ -2555,9 +2555,9 @@ Date:   Mon Aug 10 22:00:39 2020 +0000
     Reviewed-by: Theodore Dubois <tbodt@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 36f7bd4c95036be9850ffa803b18509dd2332851
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Aug 10 21:03:55 2020 +0000
+commit 36f7bd4c95036be9850ffa803b18509dd2332851    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Aug 10 21:03:55 2020 +0000    
 
     [ffx] automatically generate user configuration file
     
@@ -2572,9 +2572,9 @@ Date:   Mon Aug 10 21:03:55 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit a524b9ff6492e2e12e8f411fb0c5e1919669a493
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 7 05:40:36 2020 +0000
+commit a524b9ff6492e2e12e8f411fb0c5e1919669a493    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 7 05:40:36 2020 +0000    
 
     [ffx] Decouple component run from remote_proxy
     
@@ -2584,9 +2584,9 @@ Date:   Fri Aug 7 05:40:36 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 9fb86ca49676bbe2cc6bb2bbe0ccaaac1fdd3843
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 7 04:16:00 2020 +0000
+commit 9fb86ca49676bbe2cc6bb2bbe0ccaaac1fdd3843    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 7 04:16:00 2020 +0000    
 
     [ffx] Allow plugins to be gated by experiment flags.
     
@@ -2598,9 +2598,9 @@ Date:   Fri Aug 7 04:16:00 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit e0a7fd8730abbdd5407ddb403a2f68a69ef9d7d8
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Aug 7 02:07:42 2020 +0000
+commit e0a7fd8730abbdd5407ddb403a2f68a69ef9d7d8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Aug 7 02:07:42 2020 +0000    
 
     [ffx] integrate config with plugins
     
@@ -2615,9 +2615,9 @@ Date:   Fri Aug 7 02:07:42 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 100df6b92ca5558fcfae59b18acfd51250d236e2
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Aug 6 20:04:17 2020 +0000
+commit 100df6b92ca5558fcfae59b18acfd51250d236e2    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Aug 6 20:04:17 2020 +0000    
 
     [ffx] Add documentation for plugins that use proxies.
     
@@ -2627,13 +2627,13 @@ Date:   Thu Aug 6 20:04:17 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit a1ac87c2f7da1f998dbc431dff6b8e464addaa01
-Author: Matthew Boetger <boetger@google.com>
-Date:   Thu Aug 6 04:25:21 2020 +0000
+commit a1ac87c2f7da1f998dbc431dff6b8e464addaa01    
+Author: Matthew Boetger <boetger@google.com>    
+Date:   Thu Aug 6 04:25:21 2020 +0000    
 
     Reland "[ffx] remove ffx_plugin_suite - just use ffx_plugin"
     
-    This reverts commit 8abfa37ba637619129f2554d3513dd1b7baad0f9.
+    This reverts commit 8abfa37ba637619129f2554d3513dd1b7baad0f9.    
     
     Reason for revert: Fix forward
     
@@ -2681,12 +2681,12 @@ Date:   Thu Aug 6 04:25:21 2020 +0000
     Reviewed-by: Matthew Boetger <boetger@google.com>
 
 commit 8abfa37ba637619129f2554d3513dd1b7baad0f9
-Author: Matthew Boetger <boetger@google.com>
-Date:   Wed Aug 5 22:23:42 2020 +0000
+Author: Matthew Boetger <boetger@google.com>    
+Date:   Wed Aug 5 22:23:42 2020 +0000    
 
     Revert "[ffx] remove ffx_plugin_suite - just use ffx_plugin"
     
-    This reverts commit b51c52307878dbfec0baef653d9ef088dc5d6715.
+    This reverts commit b51c52307878dbfec0baef653d9ef088dc5d6715.    
     
     Reason for revert: python breaks users using python3
     
@@ -2719,8 +2719,8 @@ Date:   Wed Aug 5 22:23:42 2020 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
 commit b51c52307878dbfec0baef653d9ef088dc5d6715
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Aug 5 17:10:07 2020 +0000
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Aug 5 17:10:07 2020 +0000    
 
     [ffx] remove ffx_plugin_suite - just use ffx_plugin
     
@@ -2739,9 +2739,9 @@ Date:   Wed Aug 5 17:10:07 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 4684cd6b48f8130ec41901f19c59551cf6ca2864
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Aug 4 20:08:37 2020 +0000
+commit 4684cd6b48f8130ec41901f19c59551cf6ca2864    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Aug 4 20:08:37 2020 +0000    
 
     [ffx] support nested config remove
     
@@ -2751,9 +2751,9 @@ Date:   Tue Aug 4 20:08:37 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 04133fae17154802cfcd33a6430c46ccc6f577ee
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Aug 4 16:53:58 2020 +0000
+commit 04133fae17154802cfcd33a6430c46ccc6f577ee    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Aug 4 16:53:58 2020 +0000    
 
     [ffx] support nested config set
     
@@ -2763,9 +2763,9 @@ Date:   Tue Aug 4 16:53:58 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit b312bc5213d325da84c7138bc338c8fafa29b48e
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Aug 4 04:42:56 2020 +0000
+commit b312bc5213d325da84c7138bc338c8fafa29b48e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Aug 4 04:42:56 2020 +0000    
 
     [ffx] Support "get" with nested JSON config
     
@@ -2777,9 +2777,9 @@ Date:   Tue Aug 4 04:42:56 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 3bc8b025c23b233c3de74932ea7674c6015edc5c
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Aug 4 02:09:47 2020 +0000
+commit 3bc8b025c23b233c3de74932ea7674c6015edc5c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Aug 4 02:09:47 2020 +0000    
 
     [ffx] Get rid of unnecessary config.rs
     
@@ -2792,9 +2792,9 @@ Date:   Tue Aug 4 02:09:47 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 7bf63d57628220608bb7f8549169facdcb59a3d3
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jul 31 22:09:24 2020 +0000
+commit 7bf63d57628220608bb7f8549169facdcb59a3d3    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jul 31 22:09:24 2020 +0000    
 
     [ffx] Get rid of heuristics
     
@@ -2807,9 +2807,9 @@ Date:   Fri Jul 31 22:09:24 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit ba47be1a0169db1eefe4ac176e14600b34f3e484
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jul 30 18:29:03 2020 +0000
+commit ba47be1a0169db1eefe4ac176e14600b34f3e484    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jul 30 18:29:03 2020 +0000    
 
     [ffx] Provide a way to pass in a strategy to apply to config values.
     
@@ -2823,9 +2823,9 @@ Date:   Thu Jul 30 18:29:03 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit 0fb576da5b49e6ad69a6f3dd89995a028a875e03
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jul 24 21:09:09 2020 +0000
+commit 0fb576da5b49e6ad69a6f3dd89995a028a875e03    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jul 24 21:09:09 2020 +0000    
 
     [ffx] config code health - use anyhow::Result and bail
     
@@ -2837,9 +2837,9 @@ Date:   Fri Jul 24 21:09:09 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 43b3b6d584538c2b011a688cc04682d1aedebb58
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jul 24 19:22:14 2020 +0000
+commit 43b3b6d584538c2b011a688cc04682d1aedebb58    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jul 24 19:22:14 2020 +0000    
 
     [ffx] UX refactoring for ffx config
     
@@ -2911,9 +2911,9 @@ Date:   Fri Jul 24 19:22:14 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: Jordon Wing <jwing@google.com>
 
-commit e3d4cf581768685ce16b411db6b7557e5b2cdaf0
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jul 24 01:54:37 2020 +0000
+commit e3d4cf581768685ce16b411db6b7557e5b2cdaf0    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jul 24 01:54:37 2020 +0000    
 
     [ffx] Use std::default::Default instead of DEFAULT_FFX
     
@@ -2923,9 +2923,9 @@ Date:   Fri Jul 24 01:54:37 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit e3f69384ebe608310b7043ca34ead1ec90086bf8
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jul 22 21:14:57 2020 +0000
+commit e3f69384ebe608310b7043ca34ead1ec90086bf8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jul 22 21:14:57 2020 +0000    
 
     [ffx] Add environment_file flag to set environment location from command
     line
@@ -2936,9 +2936,9 @@ Date:   Wed Jul 22 21:14:57 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 82537ecd71a6024723d7e0089f3a8a6c263d6710
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jul 22 05:56:25 2020 +0000
+commit 82537ecd71a6024723d7e0089f3a8a6c263d6710    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jul 22 05:56:25 2020 +0000    
 
     [ffx] Add ASCENDD_SOCKET to config
     
@@ -2948,9 +2948,9 @@ Date:   Wed Jul 22 05:56:25 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit d709af905c93725ba9872606ed10dc240646f877
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jul 16 18:27:31 2020 +0000
+commit d709af905c93725ba9872606ed10dc240646f877    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jul 16 18:27:31 2020 +0000    
 
     [ffx] Update docs s/development-bridge/ffx
     
@@ -2959,9 +2959,9 @@ Date:   Thu Jul 16 18:27:31 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit e63842a9f245f622ba6c8f1ddd61dd052d125417
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jul 16 01:03:41 2020 +0000
+commit e63842a9f245f622ba6c8f1ddd61dd052d125417    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jul 16 01:03:41 2020 +0000    
 
     [ffx] Move 'test' subcommand under 'component'
     
@@ -2970,9 +2970,9 @@ Date:   Thu Jul 16 01:03:41 2020 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit f960c499a6581229e6576c3b5299245f7bbd68b3
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jul 16 00:55:41 2020 +0000
+commit f960c499a6581229e6576c3b5299245f7bbd68b3    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jul 16 00:55:41 2020 +0000    
 
     [ffx] Move constants out of Core
     
@@ -2982,9 +2982,9 @@ Date:   Thu Jul 16 00:55:41 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 2e12f5379ac738f95139cec7a5e26a77ae01ee91
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jul 15 20:41:17 2020 +0000
+commit 2e12f5379ac738f95139cec7a5e26a77ae01ee91    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jul 15 20:41:17 2020 +0000    
 
     [ffx] Create target suite
     
@@ -2996,9 +2996,9 @@ Date:   Wed Jul 15 20:41:17 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 5baf7d758e17ab8efa870796d3feb1b3e4cf7b4c
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jul 15 18:45:39 2020 +0000
+commit 5baf7d758e17ab8efa870796d3feb1b3e4cf7b4c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jul 15 18:45:39 2020 +0000    
 
     [ffx] Move ConfigLevel to Config Plugin - no need to be in core.
     
@@ -3008,9 +3008,9 @@ Date:   Wed Jul 15 18:45:39 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 2a020fa33fb4f1691fa53f5d4b2988239c062c36
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jul 9 22:56:25 2020 +0000
+commit 2a020fa33fb4f1691fa53f5d4b2988239c062c36    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jul 9 22:56:25 2020 +0000    
 
     [ffx] Move plugin code to run_test_suite instead of duplicating code
     
@@ -3021,9 +3021,9 @@ Date:   Thu Jul 9 22:56:25 2020 +0000
     Reviewed-by: Ankur Mittal <anmittal@google.com>
     Testability-Review: Ankur Mittal <anmittal@google.com>
 
-commit e71ec642c18680e0fa0d48eecdbeb571242bab19
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jul 1 00:10:40 2020 +0000
+commit e71ec642c18680e0fa0d48eecdbeb571242bab19    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jul 1 00:10:40 2020 +0000    
 
     [ffx] Create daemon plugin suite
     
@@ -3035,9 +3035,9 @@ Date:   Wed Jul 1 00:10:40 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 97f9604cb7183c056bea175bc523dc8cbbc34daa
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jun 26 22:02:25 2020 +0000
+commit 97f9604cb7183c056bea175bc523dc8cbbc34daa    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jun 26 22:02:25 2020 +0000    
 
     [ffx] Remove Test Manager from RCS
     
@@ -3048,9 +3048,9 @@ Date:   Fri Jun 26 22:02:25 2020 +0000
     Testability-Review: Jordon Wing <jwing@google.com>
     API-Review: James Tucker <raggi@google.com>
 
-commit 15996033ed03a865c74ac4cc4bfc82af5a129438
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Jun 16 21:37:48 2020 +0000
+commit 15996033ed03a865c74ac4cc4bfc82af5a129438    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Jun 16 21:37:48 2020 +0000    
 
     [ffx] Add a target CLI param to allow target selection.
     
@@ -3061,9 +3061,9 @@ Date:   Tue Jun 16 21:37:48 2020 +0000
     API-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 7b9a191cab6ec9f95afefa1c5c3e63b1491d27ab
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jun 12 23:25:54 2020 +0000
+commit 7b9a191cab6ec9f95afefa1c5c3e63b1491d27ab    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jun 12 23:25:54 2020 +0000    
 
     [ffx] use an mapping to automatically get arbitrary proxies
     
@@ -3078,9 +3078,9 @@ Date:   Fri Jun 12 23:25:54 2020 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 477abd5b1fd67fccdaeb1a616c8df4f0826848d8
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jun 10 00:04:22 2020 +0000
+commit 477abd5b1fd67fccdaeb1a616c8df4f0826848d8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jun 10 00:04:22 2020 +0000    
 
     [ffx] Create composable ffx plugin suite
     
@@ -3094,9 +3094,9 @@ Date:   Wed Jun 10 00:04:22 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 097d4a185382bed2bc9841f05cbe75dc951c9e90
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Jun 5 01:52:22 2020 +0000
+commit 097d4a185382bed2bc9841f05cbe75dc951c9e90    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Jun 5 01:52:22 2020 +0000    
 
     [ffx] Make config plugin
     
@@ -3106,9 +3106,9 @@ Date:   Fri Jun 5 01:52:22 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 76808fa246756936b295bf1a3311cc96efdc6543
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jun 4 22:47:27 2020 +0000
+commit 76808fa246756936b295bf1a3311cc96efdc6543    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jun 4 22:47:27 2020 +0000    
 
     [ffx] Remove unnecessary CLI struct
     
@@ -3118,9 +3118,9 @@ Date:   Thu Jun 4 22:47:27 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 226db2dbc5b4d4020b9dd6704043796d276dfec5
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jun 4 18:29:47 2020 +0000
+commit 226db2dbc5b4d4020b9dd6704043796d276dfec5    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jun 4 18:29:47 2020 +0000    
 
     [ffx] Detect DaemonProxy param in ffx_plugin
     
@@ -3137,9 +3137,9 @@ Date:   Thu Jun 4 18:29:47 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 5c2feaf302dcbad339c13cf18b3da58e8c6ff003
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jun 4 17:29:03 2020 +0000
+commit 5c2feaf302dcbad339c13cf18b3da58e8c6ff003    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jun 4 17:29:03 2020 +0000    
 
     [ffx] Begin internal documentation.
     
@@ -3153,9 +3153,9 @@ Date:   Thu Jun 4 17:29:03 2020 +0000
     Commit-Queue: Matthew Boetger <boetger@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit b5044e41f7e1761d595393caadaad3cd97db2be8
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Jun 4 17:17:11 2020 +0000
+commit b5044e41f7e1761d595393caadaad3cd97db2be8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Jun 4 17:17:11 2020 +0000    
 
     [ffx] Fix plugin tests names.
     
@@ -3167,9 +3167,9 @@ Date:   Thu Jun 4 17:17:11 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit b4085a0f2702271c924169b7f55df798ec8d0738
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jun 3 17:45:24 2020 +0000
+commit b4085a0f2702271c924169b7f55df798ec8d0738    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jun 3 17:45:24 2020 +0000    
 
     [ffx] Use double-dispatch to allow for greater control in the plugins
     
@@ -3185,9 +3185,9 @@ Date:   Wed Jun 3 17:45:24 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 58463d393491cbd49ef4d343dd58361fc8a1b761
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu May 28 23:18:17 2020 +0000
+commit 58463d393491cbd49ef4d343dd58361fc8a1b761    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu May 28 23:18:17 2020 +0000    
 
     [ffx] Fastboot discovery
     
@@ -3197,9 +3197,9 @@ Date:   Thu May 28 23:18:17 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit d79ed6783e71711725dcd7cdf58a9fbece55b21e
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 27 17:43:30 2020 +0000
+commit d79ed6783e71711725dcd7cdf58a9fbece55b21e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 27 17:43:30 2020 +0000    
 
     [ffx] Connect usb_bulk lib to fastboot lib
     
@@ -3212,9 +3212,9 @@ Date:   Wed May 27 17:43:30 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit e8745538b2c8b7e1892f2ccd090563bbad1ecaa8
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 20 23:10:39 2020 +0000
+commit e8745538b2c8b7e1892f2ccd090563bbad1ecaa8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 20 23:10:39 2020 +0000    
 
     [ffx] Move argh stuctures to core
     
@@ -3226,9 +3226,9 @@ Date:   Wed May 20 23:10:39 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 2a028371118933ecbdde3fbeaf437ca85c381396
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 20 22:27:59 2020 +0000
+commit 2a028371118933ecbdde3fbeaf437ca85c381396    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 20 22:27:59 2020 +0000    
 
     [ffx] Move daemon code into it's own library
     
@@ -3242,9 +3242,9 @@ Date:   Wed May 20 22:27:59 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Reviewed-by: Jordon Wing <jwing@google.com>
 
-commit 0d62f0dd46b3468d39a81b8ab9331705afd729c1
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue May 19 18:48:55 2020 +0000
+commit 0d62f0dd46b3468d39a81b8ab9331705afd729c1    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue May 19 18:48:55 2020 +0000    
 
     [ffx] Allow plugin args file to be passed in via param
     
@@ -3261,9 +3261,9 @@ Date:   Tue May 19 18:48:55 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 5a68823b35634b3516fc87698759cec6f45f811b
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon May 18 21:23:33 2020 +0000
+commit 5a68823b35634b3516fc87698759cec6f45f811b    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon May 18 21:23:33 2020 +0000    
 
     [ffx] Ensure persistent config files are not used during unit tests
     
@@ -3278,9 +3278,9 @@ Date:   Mon May 18 21:23:33 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 9abc3e9093b3af21f0b7190668b7246a3b244281
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri May 15 01:22:33 2020 +0000
+commit 9abc3e9093b3af21f0b7190668b7246a3b244281    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri May 15 01:22:33 2020 +0000    
 
     [ffx] Regen code if the template changes.
     
@@ -3292,9 +3292,9 @@ Date:   Fri May 15 01:22:33 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit c322301f03618853aee3f0954da3d4abf2abba86
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu May 14 23:21:44 2020 +0000
+commit c322301f03618853aee3f0954da3d4abf2abba86    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu May 14 23:21:44 2020 +0000    
 
     [ffx] Remove unused subcommand and ffx command.
     
@@ -3309,9 +3309,9 @@ Date:   Thu May 14 23:21:44 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 039583dd8aaf66c302a6bc65907c914b40611170
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 13 05:49:50 2020 +0000
+commit 039583dd8aaf66c302a6bc65907c914b40611170    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 13 05:49:50 2020 +0000    
 
     [ffx] Use attribute for plugins
     
@@ -3327,9 +3327,9 @@ Date:   Wed May 13 05:49:50 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 8425d1cf153b84478e0f4c3ecd60b0857690eb3e
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 13 05:39:50 2020 +0000
+commit 8425d1cf153b84478e0f4c3ecd60b0857690eb3e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 13 05:39:50 2020 +0000    
 
     [ffx] Code generation for plugin calls
     
@@ -3345,9 +3345,9 @@ Date:   Wed May 13 05:39:50 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 957fac99ad85735c23dc2b98fa0782ebb6da9bbc
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 13 04:49:36 2020 +0000
+commit 957fac99ad85735c23dc2b98fa0782ebb6da9bbc    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 13 04:49:36 2020 +0000    
 
     [ffx] Code generation for CLI argh struct
     
@@ -3363,9 +3363,9 @@ Date:   Wed May 13 04:49:36 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit 13eaff5b00459d1578de91799f403798d8815a54
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue May 12 21:47:41 2020 +0000
+commit 13eaff5b00459d1578de91799f403798d8815a54    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue May 12 21:47:41 2020 +0000    
 
     [ffx] Use macro and build rules for CLI integration
     
@@ -3385,9 +3385,9 @@ Date:   Tue May 12 21:47:41 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit fceab88b8b261e5a662a9b534d3a14243e0afaaf
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue May 12 20:48:31 2020 +0000
+commit fceab88b8b261e5a662a9b534d3a14243e0afaaf    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue May 12 20:48:31 2020 +0000    
 
     [ffx] Cli refactor - organize more libraries.
     
@@ -3400,9 +3400,9 @@ Date:   Tue May 12 20:48:31 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit ef70fb807e9b002b2179ee2862b0c1f9056f1d8c
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed May 6 08:18:37 2020 +0000
+commit ef70fb807e9b002b2179ee2862b0c1f9056f1d8c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed May 6 08:18:37 2020 +0000    
 
     [ffx] CLI refactor - move integrations to their own libraries.
     
@@ -3415,9 +3415,9 @@ Date:   Wed May 6 08:18:37 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit b12451be42ce51d97f2284799e39047cbfb8420a
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Apr 30 21:11:46 2020 +0000
+commit b12451be42ce51d97f2284799e39047cbfb8420a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Apr 30 21:11:46 2020 +0000    
 
     [ffx] Add a default.json file for default config
     
@@ -3427,9 +3427,9 @@ Date:   Thu Apr 30 21:11:46 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 787a2ad23766775d3b49b90cee3afa430d86504f
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Apr 30 19:52:23 2020 +0000
+commit 787a2ad23766775d3b49b90cee3afa430d86504f    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Apr 30 19:52:23 2020 +0000    
 
     [ffx] Fix for config cache panic.
     
@@ -3440,9 +3440,9 @@ Date:   Thu Apr 30 19:52:23 2020 +0000
     Testability-Review: Andrew Davies <awdavies@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit bfcc9ff753437bedf0b27160ac149a1b4375250a
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Apr 29 17:42:11 2020 +0000
+commit bfcc9ff753437bedf0b27160ac149a1b4375250a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Apr 29 17:42:11 2020 +0000    
 
     [ffx] Remove compose - Daemon returns remote_proxy to Cli.
     
@@ -3455,9 +3455,9 @@ Date:   Wed Apr 29 17:42:11 2020 +0000
     Reviewed-by: Andrew Davies <awdavies@google.com>
     Testability-Review: Andrew Davies <awdavies@google.com>
 
-commit f86f28a5d08cd220f8a5c8026692466ff2d5f511
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Apr 27 19:40:22 2020 +0000
+commit f86f28a5d08cd220f8a5c8026692466ff2d5f511    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Apr 27 19:40:22 2020 +0000    
 
     [ffx] Adding a thread-safe cache for the Config
     
@@ -3470,9 +3470,9 @@ Date:   Mon Apr 27 19:40:22 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 4033a137edc5bed010af7f42f656784c2ba4e098
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Apr 21 19:36:43 2020 +0000
+commit 4033a137edc5bed010af7f42f656784c2ba4e098    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Apr 21 19:36:43 2020 +0000    
 
     [ffx] Config refactoring for code health.
     
@@ -3485,9 +3485,9 @@ Date:   Tue Apr 21 19:36:43 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 8bce3e77dc4e5866852b3999637dfc3a23f78f66
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Apr 20 22:16:01 2020 +0000
+commit 8bce3e77dc4e5866852b3999637dfc3a23f78f66    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Apr 20 22:16:01 2020 +0000    
 
     [ffx] Allow configuration to be passed in via a CLI parameter.
     
@@ -3499,9 +3499,9 @@ Date:   Mon Apr 20 22:16:01 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit c8ba93ea0d5f7109ec64d5c41ed5f3ca20eb57b7
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Apr 20 19:56:16 2020 +0000
+commit c8ba93ea0d5f7109ec64d5c41ed5f3ca20eb57b7    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Apr 20 19:56:16 2020 +0000    
 
     [ffx] Add environment variables to the ffx configuration
     
@@ -3511,9 +3511,9 @@ Date:   Mon Apr 20 19:56:16 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit fc6ab0df43d604b0fc7eea64769e0fd948b383a8
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Apr 17 22:52:14 2020 +0000
+commit fc6ab0df43d604b0fc7eea64769e0fd948b383a8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Apr 17 22:52:14 2020 +0000    
 
     [ffx] Simplelog implementation
     
@@ -3525,9 +3525,9 @@ Date:   Fri Apr 17 22:52:14 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit b5e78720f634ef83459b9a32381ff47b158e6d6c
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Apr 15 17:20:19 2020 +0000
+commit b5e78720f634ef83459b9a32381ff47b158e6d6c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Apr 15 17:20:19 2020 +0000    
 
     [third_party] Adding simplelog to third_party
     
@@ -3541,9 +3541,9 @@ Date:   Wed Apr 15 17:20:19 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 02f76a13eef3262ada6a280b078f95c97ed1813c
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 31 05:14:24 2020 +0000
+commit 02f76a13eef3262ada6a280b078f95c97ed1813c    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 31 05:14:24 2020 +0000    
 
     [ffx] Test the output for ffx test with selectors
     
@@ -3553,9 +3553,9 @@ Date:   Tue Mar 31 05:14:24 2020 +0000
     Reviewed-by: James Tucker <raggi@google.com>
     Testability-Review: James Tucker <raggi@google.com>
 
-commit 5d3969bb9802579e45a324b216005f8a1b3cc570
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 31 01:23:01 2020 +0000
+commit 5d3969bb9802579e45a324b216005f8a1b3cc570    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 31 01:23:01 2020 +0000    
 
     [ffx] Use a writer to print to stdout so we test output in unit tests
     
@@ -3566,9 +3566,9 @@ Date:   Tue Mar 31 01:23:01 2020 +0000
     Reviewed-by: Jordon Wing <jwing@google.com>
     Reviewed-by: Andrew Davies <awdavies@google.com>
 
-commit 98279c38255b36c55905a522f9fe4481ab58ee09
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 31 00:17:49 2020 +0000
+commit 98279c38255b36c55905a522f9fe4481ab58ee09    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 31 00:17:49 2020 +0000    
 
     [ffx] FTF Wildcard selection for running tests.
     
@@ -3579,9 +3579,9 @@ Date:   Tue Mar 31 00:17:49 2020 +0000
     Testability-Review: James Tucker <raggi@google.com>
     Commit-Queue: Matthew Boetger <boetger@google.com>
 
-commit 3655eef2d8e72e4f3ebe0e1f2bcd2d6c2e245fa1
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Mar 24 19:00:50 2020 +0000
+commit 3655eef2d8e72e4f3ebe0e1f2bcd2d6c2e245fa1    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Mar 24 19:00:50 2020 +0000    
 
     [ffx] FTF Run Tests
     
@@ -3590,49 +3590,49 @@ Date:   Tue Mar 24 19:00:50 2020 +0000
     
     Change-Id: Ice97c0a8c0c5f91e823188b112e7034f9680959e
 
-commit ea916d259c0b41334d1208068e7947cf3c232c01
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Mar 19 00:50:34 2020 +0000
+commit ea916d259c0b41334d1208068e7947cf3c232c01    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Mar 19 00:50:34 2020 +0000    
 
     [ffx] FTF integration using the test manager Harness protocol.
     
     Change-Id: Icf075f4295298c6cb41ca4f3788beeb3073fd118
 
-commit 9deaa8a90b3de4feedb6f816cff317c73f832fac
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Mar 9 21:50:54 2020 +0000
+commit 9deaa8a90b3de4feedb6f816cff317c73f832fac    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Mar 9 21:50:54 2020 +0000    
 
     [ffx] Add Heuristics to config
     
     Change-Id: Ifde1f8ebacd84800c3bb44df375c44c61bf5a6c8
 
-commit 229eb0ca619dfa499562a557f374344e3fdf1420
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 21 19:14:58 2020 +0000
+commit 229eb0ca619dfa499562a557f374344e3fdf1420    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 21 19:14:58 2020 +0000    
 
     [ffx] Implement config remove
     
     Change-Id: I5324a130afaee201c4e0274d0abe2cf26b762c2a
 
-commit 2584115e68b3912fbb88c54008fed35774ebfff3
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Feb 21 18:05:23 2020 +0000
+commit 2584115e68b3912fbb88c54008fed35774ebfff3    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Feb 21 18:05:23 2020 +0000    
 
     [ffx] Connect the Config implementation to the user
     
     Change-Id: I89f3364f28a1f9a8674eca2e77cd6d9d751ad985
 
-commit 6ea97b2a434e7ac17269eef1f04f64d165ef0580
-Author: Matt Boetger <boetger@google.com>
-Date:   Thu Feb 20 03:17:42 2020 +0000
+commit 6ea97b2a434e7ac17269eef1f04f64d165ef0580    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Thu Feb 20 03:17:42 2020 +0000    
 
     [ffx] Fix fastboot unused import.
     
     Change-Id: Ia647c8f89473b631325a84ec0143892e1794619b
 
-commit 24eff62c3e5f40798093bb9bbf965a8ec61ffea8
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Feb 19 18:46:43 2020 +0000
+commit 24eff62c3e5f40798093bb9bbf965a8ec61ffea8    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Feb 19 18:46:43 2020 +0000    
 
     [ffx] Fastboot protocol client implementation
     
@@ -3641,25 +3641,25 @@ Date:   Wed Feb 19 18:46:43 2020 +0000
     
     Change-Id: I8396d530b9319ac6bb257480c3e96bad189eebbe
 
-commit 8770827b0c0ffc344a7bdb1508f35c44a9ac3f5a
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Feb 12 21:04:03 2020 +0000
+commit 8770827b0c0ffc344a7bdb1508f35c44a9ac3f5a    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Feb 12 21:04:03 2020 +0000    
 
     [ffx] Auto start the fdb daemon.
     
     Change-Id: I62968e7ff85821eb155b2dda9a0f59d7cc4223ff
 
-commit e0a78f72e286035f2485e5fefa89d213ed552be4
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Feb 11 01:52:57 2020 +0000
+commit e0a78f72e286035f2485e5fefa89d213ed552be4    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Feb 11 01:52:57 2020 +0000    
 
     [ffx] Add a persistence layer to the config implementation.
     
     Change-Id: Iae7af6ca50ba954556b00255cb39d56cb3d40aaf
 
-commit 348af745e1c7a6301d3acc71c57b84711177e772
-Author: Matt Boetger <boetger@google.com>
-Date:   Mon Feb 10 20:32:44 2020 +0000
+commit 348af745e1c7a6301d3acc71c57b84711177e772    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Mon Feb 10 20:32:44 2020 +0000    
 
     [ffx] Config API
     
@@ -3668,17 +3668,17 @@ Date:   Mon Feb 10 20:32:44 2020 +0000
     
     Change-Id: Ia5d8690b3eebc3424ca7abad05184b51b22438e4
 
-commit 624e4e8269ecc953b92c9686ad91df1ad0fac86e
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jan 29 01:59:38 2020 +0000
+commit 624e4e8269ecc953b92c9686ad91df1ad0fac86e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jan 29 01:59:38 2020 +0000    
 
     [Ffx] Rename fdb to ffx
     
     Change-Id: I892614573d1dd2ea4166891d3021d92bd0ba8740
 
-commit 71ad82fc549588b517fa6ad36b42c0e279131e6e
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Jan 28 23:50:01 2020 +0000
+commit 71ad82fc549588b517fa6ad36b42c0e279131e6e    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Jan 28 23:50:01 2020 +0000    
 
     [ffx] Fastboot protocol implementation
     
@@ -3688,33 +3688,33 @@ Date:   Tue Jan 28 23:50:01 2020 +0000
     
     Change-Id: Ibe332686f28aced0d3b5e9947c734f234fd20ea5
 
-commit b26ea1568a22f600009d0cbdc5e7ece3b3002fcf
-Author: Matt Boetger <boetger@google.com>
-Date:   Wed Jan 15 20:32:10 2020 +0000
+commit b26ea1568a22f600009d0cbdc5e7ece3b3002fcf    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Wed Jan 15 20:32:10 2020 +0000    
 
     [fdb] Remove daemon binary and just use the same binary for everything.
     
     Change-Id: Ic0eb704030fe79c6802a6732b1f75c80fa0b2cf0
 
-commit c57e145dbd7e433b9a2d268e782b6a23d8f426cd
-Author: Matt Boetger <boetger@google.com>
-Date:   Sat Jan 11 03:55:29 2020 +0000
+commit c57e145dbd7e433b9a2d268e782b6a23d8f426cd    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Sat Jan 11 03:55:29 2020 +0000    
 
     [fdb] Add the remote control service to cli daemon.
     
     Change-Id: I249b25415be068b57d6e53dbb3ef524febf9ce84
 
-commit c95eb3f4704bd39795edc568c958d6cadf541281
-Author: Matt Boetger <boetger@google.com>
-Date:   Fri Dec 13 23:42:22 2019 +0000
+commit c95eb3f4704bd39795edc568c958d6cadf541281    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Fri Dec 13 23:42:22 2019 +0000    
 
     [fdb] Create daemon
     
     Change-Id: I4189ff326a0eb4984f732bc7c40430d287d4a21a
 
-commit 7a1f53adfc3b6a8769ab6eebecc0d07c62300d61
-Author: Matt Boetger <boetger@google.com>
-Date:   Tue Nov 19 18:05:13 2019 +0000
+commit 7a1f53adfc3b6a8769ab6eebecc0d07c62300d61    
+Author: Matt Boetger <boetger@google.com>    
+Date:   Tue Nov 19 18:05:13 2019 +0000    
 
     [fdb] Adding initial fdb
     
