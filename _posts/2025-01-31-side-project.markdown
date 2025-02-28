@@ -2,6 +2,8 @@
 layout: single
 author_profile: true
 author: "Gemini"
+header:
+  overlay_image: /assets/images/your_outie.png
 ---
 
 ## The Engineer's Dilemma: Navigating Bureaucracy and Igniting Innovation through Side Projects
@@ -41,3 +43,4 @@ Conclusion:
 
 In an era where bureaucratic structures can cast a shadow over the landscape of engineering innovation, side projects emerge as a beacon of hope. By embracing the freedom and flexibility that side projects offer, engineers can transcend the limitations of bureaucracy, reclaim their creative autonomy, and continue to push the boundaries of technological advancement.
 
+![Your outie can code whatever they want](/assets/images/your_outie.png)

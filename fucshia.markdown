@@ -16,9 +16,9 @@ git log --author=boetger@google.com
 ```
 
 
-commit aad819ab0f102eba452d100394a97d7149603b7e      
-Author: Matt Boetger <boetger@google.com>      
-Date:   Tue Mar 29 16:56:48 2022 +0000      
+commit aad819ab0f102eba452d100394a97d7149603b7e
+Author: Matt Boetger <boetger@google.com>   
+Date:   Tue Mar 29 16:56:48 2022 +0000  
 
     [ffx] remove ssh-key param from ffx target flash
     
